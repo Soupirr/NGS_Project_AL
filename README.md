@@ -1,4 +1,8 @@
-# Enterococcus faecium – NGS project
+# Enterococcus faecium – Genome assembly and RNA-seq analysis
 
-Genome assembly and RNA-seq analysis based on Zhang et al. 2017.
-blabal
+## 1. Project overview
+## 2. Data
+## 3. Analysis workflow
+## 4. Main results
+## 5. Repository structure
+## 6. Software used
