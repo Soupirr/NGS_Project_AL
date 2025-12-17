@@ -1,0 +1,5 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(6')-Ii	99.64	549/549	100.0	1..549	CP014529.1 Enterococcus faecium strain E745, complete genome	870837..871385	Tobramycin, Dibekacin, Gentamicin, Sisomicin, Netilmicin	L12710
+msr(C)	98.99	1479/1479	100.0	1..1479	CP014529.1 Enterococcus faecium strain E745, complete genome	2598307..2599785	Erythromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	AY004350
+dfrG	100.00	498/498	100.0	1..498	CP014535.1 Enterococcus faecium strain E745 plasmid pl6, complete sequence	2232..2729	Trimethoprim	AB205645
+VanHAX	100.00	2607/2607	100.0	1..2607	CP014531.1 Enterococcus faecium strain E745 plasmid pl2, complete sequence	5705..8311	Vancomycin, Teicoplanin	M97297

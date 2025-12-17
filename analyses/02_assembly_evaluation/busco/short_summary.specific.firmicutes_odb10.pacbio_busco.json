@@ -1,0 +1,63 @@
+{
+    "parameters": {
+        "out_path": "/mnt/c/Users/antoi/Desktop/Informatique/Efaecium_NGS_Project/analyses/02_assembly_evaluation/busco",
+        "cpu": "4",
+        "force": "False",
+        "restart": "False",
+        "quiet": "False",
+        "download_path": "/mnt/c/Users/antoi/Desktop/Informatique/Efaecium_NGS_Project/busco_downloads",
+        "datasets_version": "odb10",
+        "offline": "False",
+        "download_base_url": "https://busco-data.ezlab.org/v5/data/",
+        "auto-lineage": "False",
+        "auto-lineage-prok": "False",
+        "auto-lineage-euk": "False",
+        "update-data": "False",
+        "use_augustus": "False",
+        "use_miniprot": "False",
+        "batch_mode": "False",
+        "tar": "False",
+        "in": "/mnt/c/Users/antoi/Desktop/Informatique/Efaecium_NGS_Project/data/raw/genome/E745.fasta",
+        "out": "pacbio_busco",
+        "mode": "prok_genome",
+        "lineage_dataset": "/mnt/c/Users/antoi/Desktop/Informatique/Efaecium_NGS_Project/busco_downloads/lineages/firmicutes_odb10",
+        "main_out": "/mnt/c/Users/antoi/Desktop/Informatique/Efaecium_NGS_Project/analyses/02_assembly_evaluation/busco/pacbio_busco",
+        "lineage_results_dir": "run_firmicutes_odb10",
+        "domain": "prokaryota",
+        "prodigal_genetic_code": "11",
+        "ambiguous_cd_range_lower": "0.73",
+        "ambiguous_cd_range_upper": "0.8",
+        "orthodb_version": "10.1",
+        "contig_break": "10",
+        "scaffold_composition": "False",
+        "gene_predictor": "prodigal"
+    },
+    "lineage_dataset": {
+        "name": "firmicutes_odb10",
+        "creation_date": "2024-01-08",
+        "number_of_buscos": "218",
+        "number_of_species": "1212"
+    },
+    "versions": {
+        "hmmsearch": 3.4,
+        "bbmap": "39.06",
+        "prodigal": "2.6.3",
+        "busco": "5.5.0"
+    },
+    "results": {
+        "one_line_summary": "C:99.5%[S:97.7%,D:1.8%],F:0.5%,M:0.0%,n:218",
+        "Complete": 99.5,
+        "Single copy": 97.7,
+        "Multi copy": 1.8,
+        "Fragmented": 0.5,
+        "Missing": 0.0,
+        "n_markers": 218,
+        "domain": "prokaryota",
+        "Number of scaffolds": "7",
+        "Number of contigs": "7",
+        "Total length": "3168410",
+        "Percent gaps": "0.000%",
+        "Scaffold N50": "2765010",
+        "Contigs N50": "2765010"
+    }
+}

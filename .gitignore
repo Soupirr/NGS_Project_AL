@@ -1,0 +1,35 @@
+# Données brutes
+data/raw/
+
+# Fichiers volumineux
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.bai
+*.fq.gz
+
+# Assembly intermediates
+*.gfa
+*.fasta.tmp
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.out
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Python / Conda
+.env
+env/
+.conda/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,30 @@
+# BUSCO version is: 5.5.0 
+# The lineage dataset is: firmicutes_odb10 (Creation date: 2024-01-08, number of genomes: 1212, number of BUSCOs: 218)
+# Summarized benchmarking in BUSCO notation for file /mnt/c/Users/antoi/Desktop/Informatique/Efaecium_NGS_Project/data/raw/genome/E745.fasta
+# BUSCO was run in mode: prok_genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:99.5%[S:97.7%,D:1.8%],F:0.5%,M:0.0%,n:218	   
+	217	Complete BUSCOs (C)			   
+	213	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	1	Fragmented BUSCOs (F)			   
+	0	Missing BUSCOs (M)			   
+	218	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	7	Number of scaffolds
+	7	Number of contigs
+	3168410	Total length
+	0.000%	Percent gaps
+	2 MB	Scaffold N50
+	2 MB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	bbmap: 39.06
+	prodigal: 2.6.3
+	busco: 5.5.0

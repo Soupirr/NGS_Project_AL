@@ -1,0 +1,15 @@
+Status	analyses/05_mapping/bowtie2/bam/ERR1797969.subsampled.sorted.bam	analyses/05_mapping/bowtie2/bam/ERR1797970.subsampled.sorted.bam	analyses/05_mapping/bowtie2/bam/ERR1797971.subsampled.sorted.bam	analyses/05_mapping/bowtie2/bam/ERR1797972.subsampled.sorted.bam	analyses/05_mapping/bowtie2/bam/ERR1797973.subsampled.sorted.bam	analyses/05_mapping/bowtie2/bam/ERR1797974.subsampled.sorted.bam
+Assigned	284138	299502	293192	436890	389668	374975
+Unassigned_Unmapped	6898	6477	6769	5402	4794	4632
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	197555	192736	213528	57298	50266	48754
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	11235	12251	11501	19086	18154	17165

@@ -1,0 +1,1775 @@
+"locus_tag","product","log2FoldChange","padj"
+"E745_00077","Protein translocase subunit SecY",-2.78054377782725,0
+"E745_00210",NA,5.0261652169821,0
+"E745_00885","Folate transporter FolT",3.84711942697243,0
+"E745_01445","Arginine--tRNA ligase",3.04627824145876,0
+"E745_02156","3-oxoacyl-[acyl-carrier-protein] synthase 3",-4.95025020539609,0
+"E745_02995",NA,2.68881462056399,0
+"E745_02166","hypothetical protein",4.25430711350625,1.13277395015898e-318
+"E745_01897",NA,5.35218716986809,3.79727152136398e-308
+"E745_02676",NA,-3.67920419732289,6.21069803800542e-302
+"E745_02337","50S ribosomal protein L10",-2.79606372990351,8.85286818062117e-298
+"E745_02336","50S ribosomal protein L7/L12",-3.17940905557362,6.82581024807666e-277
+"E745_02149","2-oxoglutarate carboxylase small subunit",-5.47435400971908,8.29577372342603e-271
+"E745_02885",NA,5.17369410711085,1.63509964897035e-231
+"E745_00626","Fructose-bisphosphate aldolase",-2.258251797407,3.16614833551464e-230
+"E745_00054","Elongation factor G",-1.76874077200505,1.60840060658642e-216
+"E745_00078","Adenylate kinase",-2.92830118872036,3.49424445933848e-212
+"E745_02152","3-oxoacyl-[acyl-carrier-protein] synthase 2",-5.00687356787328,2.60089063088346e-211
+"E745_02531",NA,1.97827129732921,2.47203288996571e-210
+"E745_00063","30S ribosomal protein S3",-2.38647388493208,3.86683909824718e-202
+"E745_00084","50S ribosomal protein L17",-2.25602365263654,4.53338374836478e-202
+"E745_00873","IS200/IS605 family transposase ISEfa4",5.53727922064967,3.63683689624384e-201
+"E745_02469",NA,-4.55992895168955,6.01254305748111e-200
+"E745_01640","hypothetical protein",4.19808243001098,1.49032600602432e-198
+"E745_02675",NA,-3.13954532607176,3.98042948821636e-193
+"E745_00073","50S ribosomal protein L18",-2.65621037036593,4.09235765324568e-193
+"E745_01908",NA,3.64730599717731,3.99946749363918e-192
+"E745_02470",NA,-4.24462400223417,5.7393178539692e-187
+"E745_00074","30S ribosomal protein S5",-2.56537333258752,9.65738261985632e-184
+"E745_02148","Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta",-4.81991088578707,5.012172416363e-180
+"E745_00083","DNA-directed RNA polymerase subunit alpha",-2.39268351086729,5.99869566588961e-179
+"E745_00137","Biotin transporter BioY2",5.59115446159328,2.74841262192742e-176
+"E745_02153","3-oxoacyl-[acyl-carrier-protein] reductase FabG",-5.31127459241005,7.73475176459109e-176
+"E745_01450","30S ribosomal protein S2",-2.84296817645145,1.25610764515858e-175
+"E745_02154","Malonyl CoA-acyl carrier protein transacylase",-5.46384163467921,1.84048233210266e-174
+"E745_00068","50S ribosomal protein L24",-2.57477789827139,6.75844554742491e-170
+"E745_00671","50S ribosomal protein L21",-2.42849596977672,9.7305157821318e-169
+"E745_01104",NA,2.43497193911693,1.42794081709697e-166
+"E745_02127","Guanine/hypoxanthine permease PbuO",4.22920470437783,6.38126408335476e-159
+"E745_00055","Elongation factor Tu",-1.55184726920594,5.89555852287467e-158
+"E745_02155","Acyl carrier protein",-5.5665498717579,5.17804113812692e-155
+"E745_00138","30S ribosomal protein S4",-2.590507764705,7.93956235923995e-155
+"E745_00871","Oligopeptide transport ATP-binding protein OppD",6.02762742613246,2.51119872862823e-153
+"E745_00076","50S ribosomal protein L15",-2.77111078951377,4.59893329922095e-151
+"E745_02994",NA,2.53931383037392,1.12094802436933e-150
+"E745_02147","Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha",-4.95248883608027,1.00285480098679e-147
+"E745_02339","50S ribosomal protein L11",-2.52171961746457,5.71685622663775e-146
+"E745_00061","30S ribosomal protein S19",-2.97560829621636,2.22493366753654e-145
+"E745_02338","50S ribosomal protein L1",-2.64769214598456,1.17951189573348e-143
+"E745_00066","30S ribosomal protein S17",-2.45371543809551,2.53744757590156e-143
+"E745_01511","Trigger factor",-2.28969335735124,6.70377412463842e-142
+"E745_01767","Formate--tetrahydrofolate ligase 1",3.51233367584923,2.16168439216119e-141
+"E745_00067","50S ribosomal protein L14",-2.73948748192012,2.71867116954784e-141
+"E745_00072","50S ribosomal protein L6",-2.28748794023326,1.40993725722635e-139
+"E745_00903","hypothetical protein",3.05910376208393,1.99077086518532e-139
+"E745_01845","hypothetical protein",7.28147666536609,2.10105793472342e-139
+"E745_00069","50S ribosomal protein L5",-2.69435005842039,1.47789985866345e-135
+"E745_00060","50S ribosomal protein L2",-2.21158350334694,1.1659088041282e-134
+"E745_00872","Oligopeptide transport ATP-binding protein OppF",5.72046201789758,1.98646790915278e-134
+"E745_00109","hypothetical protein",1.9756511034917,4.79600964793458e-133
+"E745_01451","Elongation factor Ts",-2.11384390515119,1.00910241890008e-129
+"E745_00052","30S ribosomal protein S12",-2.34994448539513,4.79275438599559e-128
+"E745_02157","hypothetical protein",-4.2760994097748,8.86665822365893e-128
+"E745_01713","Stress response protein YsnF",5.74489318216115,3.9842525719096e-124
+"E745_00070","30S ribosomal protein S14 type Z",-2.70115613943846,1.7790982743055e-123
+"E745_02029",NA,2.82425511658271,2.22928147164083e-123
+"E745_00062","50S ribosomal protein L22",-2.39816439182458,2.54673065105216e-121
+"E745_02473",NA,2.48162345939017,1.57444362341682e-119
+"E745_00071","30S ribosomal protein S8",-2.61963280379892,7.59968460750589e-119
+"E745_01812","Glyceraldehyde-3-phosphate dehydrogenase",2.80242915923372,3.66627415477169e-118
+"E745_02526",NA,-1.81206620610191,1.42126563212573e-116
+"E745_00082","30S ribosomal protein S11",-2.54446861125838,6.4277697865085e-115
+"E745_00053","30S ribosomal protein S7",-1.94350768646764,3.81105407932949e-112
+"E745_00231",NA,-1.62992373859913,2.01268016866721e-111
+"E745_02151","Biotin carboxyl carrier protein of acetyl-CoA carboxylase",-5.22718322329037,4.99899529767415e-111
+"E745_00064","50S ribosomal protein L16",-2.44473762686376,4.5129582400958e-110
+"E745_01909",NA,3.47174173031901,1.22031554170727e-109
+"E745_02193","Transcription elongation factor GreA",-2.3851693650617,1.34532331955168e-103
+"E745_02898",NA,3.47451822128564,2.58126070469636e-101
+"E745_00882","Niacin transporter NiaX",5.736963712816,2.54978911904144e-100
+"E745_00057","50S ribosomal protein L3",-2.10993998271705,4.46183707337921e-99
+"E745_00119","Petrobactin-binding protein YclQ",6.34486325007926,3.54796683060314e-98
+"E745_01902",NA,9.01064243426102,6.01557066080598e-98
+"E745_01901",NA,8.90610402672874,9.97986536121154e-95
+"E745_01801","Transketolase",1.4217609838323,2.17880871815767e-94
+"E745_02145","putative protein YqeH",-3.0283969675391,6.67688875191136e-93
+"E745_01252","50S ribosomal protein L19",-2.0886212025321,7.85801274032224e-90
+"E745_00867","Dipeptide-binding protein DppE",7.16964082887741,2.23381997936501e-89
+"E745_00013","Adenylosuccinate synthetase",1.78180105513413,7.81397759889279e-89
+"E745_00081","30S ribosomal protein S13",-2.23574683694441,1.04228644101507e-88
+"E745_00058","50S ribosomal protein L4",-2.16667851529473,1.93443018515372e-87
+"E745_00079","Translation initiation factor IF-1",-2.3610203372235,1.32795661462787e-86
+"E745_00080","50S ribosomal protein L36",-2.65213937119868,9.91260253979069e-86
+"E745_00075","50S ribosomal protein L30",-2.69116600246586,1.24973906563213e-85
+"E745_01518","Tagatose-6-phosphate kinase",-5.84295211818308,2.77880807448805e-85
+"E745_02146","hypothetical protein",-3.80835728974443,2.52877441050772e-84
+"E745_00673","50S ribosomal protein L27",-1.73833985850137,9.73504936539716e-84
+"E745_01648","Stress response regulator gls24 ",3.36733778857309,1.37782275444516e-83
+"E745_02884",NA,4.74693691475602,6.12727377146726e-81
+"E745_01906",NA,8.52583389348065,8.35878593011845e-81
+"E745_02150","3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ",-5.11876657499769,4.01695871585274e-78
+"E745_00187",NA,-2.12614904405433,7.99000100640252e-78
+"E745_01899",NA,7.5810739065177,3.90898630783109e-77
+"E745_00870","Dipeptide transport system permease protein DppC",5.41498042059832,1.85607958361203e-76
+"E745_01519","PTS system fructose-specific EIIABC component",-6.19585907226434,4.29848901038798e-74
+"E745_01646","hypothetical protein",3.27017149245605,4.46114692034991e-74
+"E745_00156",NA,2.51438305795488,1.88677976150905e-73
+"E745_02122","ATP-dependent 6-phosphofructokinase",-1.4229985494833,1.57323580473687e-72
+"E745_01818","Enoyl-[acyl-carrier-protein] reductase [NADH] FabI",-3.68896635796474,4.55470050441561e-71
+"E745_00629","50S ribosomal protein L31 type B",-2.0207157517318,7.49149112378756e-69
+"E745_00519",NA,-2.62045793566385,1.78642760746396e-68
+"E745_00439","Organic hydroperoxide resistance protein OhrB",3.46559368608054,9.12936951765781e-67
+"E745_01637","putative oxidoreductase YghA",7.51653118857444,1.59197790425587e-65
+"E745_01555","L-cystine uptake protein TcyP",-1.82425697681983,1.18947310515539e-64
+"E745_01569","hypothetical protein",2.50376030712967,1.30814271600329e-64
+"E745_01980",NA,4.43649773457577,2.4840013922108e-64
+"E745_00065","50S ribosomal protein L29",-2.43285062567409,2.75587093663477e-64
+"E745_00056","30S ribosomal protein S10",-2.88214958700509,1.86914346921118e-63
+"E745_02209","Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase",-2.14728947280467,7.54616190779064e-63
+"E745_02121","Pyruvate kinase",-1.3721442704846,1.76567476693425e-62
+"E745_01064",NA,-1.3594797963244,7.00886251391839e-62
+"E745_00049","2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",-1.445102184865,8.37750440559405e-62
+"E745_00676","PTS system mannose-specific EIIAB component",1.58983321223113,1.35079460105124e-61
+"E745_02371",NA,2.02484131464393,3.58068447830825e-60
+"E745_01066",NA,-1.4573953484536,1.50633578727496e-59
+"E745_02692",NA,-1.1412908012591,2.64520679735845e-59
+"E745_00869","Oligopeptide transport system permease protein OppB",6.70571007735784,3.11319988062531e-59
+"E745_00672","hypothetical protein",-1.93944577772985,3.64101590052199e-59
+"E745_02140","2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial",-2.41755608093515,2.32925034278034e-58
+"E745_00941",NA,2.72586504576909,3.28372653129915e-58
+"E745_01350","hypothetical protein",3.05148125904905,1.01386611223205e-57
+"E745_00059","50S ribosomal protein L23",-2.06206879118911,4.65521032029163e-57
+"E745_01482","Chaperone protein DnaK",-1.4444374821809,3.05196538489514e-55
+"E745_02964",NA,1.90936571901733,8.32273785641069e-55
+"E745_02138","putative transcriptional regulatory protein YeeN",-2.40236061079287,1.32742879922066e-54
+"E745_01898",NA,8.72926367625213,3.03091714958452e-54
+"E745_02693","DNA-directed RNA polymerase subunit beta",-1.19515605062525,3.13108384847229e-54
+"E745_00117","Petrobactin import system permease protein YclO",5.83978841941256,5.25987303633939e-54
+"E745_01517","HTH-type transcriptional repressor GlcR",-5.76978384555406,8.46443539711298e-54
+"E745_00336",NA,-5.07023526579562,1.1252374826008e-53
+"E745_00130","Glycerol facilitator-aquaporin gla",-2.12216924481767,1.33608408486919e-53
+"E745_00403","Diaminopimelate decarboxylase",3.35786304582502,3.62590613839675e-53
+"E745_02393",NA,2.19468530660435,1.13996906365658e-52
+"E745_02143","Nicotinate-nucleotide adenylyltransferase",-2.53499647138773,2.43127278691781e-52
+"E745_01773","Alanine--tRNA ligase",-2.13080474205542,2.12017534417612e-51
+"E745_01975",NA,-2.33273014017139,3.86780275064696e-51
+"E745_02397",NA,-4.3936203230192,4.97532731229697e-51
+"E745_01882","GTP-binding protein TypA/BipA",-1.60904517665278,8.08023999299253e-50
+"E745_00463","putative glucose uptake protein GlcU",-2.26655477201605,9.85369556756942e-49
+"E745_00035","GMP synthase [glutamine-hydrolyzing]",-1.05425517785158,2.95367596133286e-48
+"E745_02139","tRNA(Met) cytidine acetate ligase",-3.36251254811149,4.50347937747551e-48
+"E745_01830","Phenylalanine--tRNA ligase beta subunit",-2.01775558088336,4.6177388672483e-48
+"E745_01903",NA,8.58349163407466,2.14038193718835e-47
+"E745_00540","Deoxyguanosine kinase",-3.87150722736421,5.27982290169726e-47
+"E745_00233",NA,-2.08855360360877,1.57281467065027e-46
+"E745_00539","hypothetical protein",-4.60317152119386,8.08873235269398e-46
+"E745_02132","Threonine--tRNA ligase",-1.97008197555499,8.36871975431163e-46
+"E745_01348","hypothetical protein",3.16681552443718,5.57231351603345e-45
+"E745_02119","hypothetical protein",-1.55046219880567,6.00146699696246e-45
+"E745_01910",NA,5.49730455277239,9.79041933729852e-45
+"E745_01433","hypothetical protein",2.8729216959923,1.24671529561971e-44
+"E745_00716","PTS system galactose-specific EIIB component",5.56932967321398,1.37989940373221e-44
+"E745_02293","hypothetical protein",4.94604391354847,2.21430455909045e-44
+"E745_00991",NA,1.65990477765379,3.49912210264759e-44
+"E745_03168",NA,1.98214792765599,4.38471275483909e-44
+"E745_01422","putative siderophore-binding lipoprotein YfiY",3.78720401856613,4.67055387930111e-44
+"E745_01247","30S ribosomal protein S16",-2.25622093585919,6.48230434004454e-44
+"E745_01817","3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ",-3.3328883678233,8.0157494635003e-44
+"E745_00708","Isoleucine--tRNA ligase",-2.21469609957122,8.05175106981597e-43
+"E745_00118","Petrobactin import ATP-binding protein YclP",5.1929849710397,1.39784318936366e-42
+"E745_01158",NA,-2.09628406810849,1.76967897872798e-42
+"E745_02142","hypothetical protein",-2.2298085251235,5.76451671467469e-42
+"E745_02032",NA,2.29644987473946,3.70178480959216e-41
+"E745_00929",NA,2.31398481269345,1.74331306823816e-40
+"E745_01127",NA,1.67987718496113,3.29649425928552e-40
+"E745_02727","Inosine-5-monophosphate dehydrogenase
+E745_02728	CDS	696				hypothetical protein
+E745_02729	CDS	1101	ychF		COG0012	Ribosome-binding ATPase YchF
+E745_02730	CDS	192				hypothetical protein
+E745_02731	CDS	891	spo0J		COG1475	Stage 0 sporulation protein J
+E745_02732	CDS	768	soj_1	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+E745_02733	CDS	714	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+E745_02734	CDS	1902	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+E745_02735	CDS	1398	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+E745_02736	CDS	339				hypothetical protein
+E745_02737	CDS	759				hypothetical protein
+E745_02738	CDS	819	misCA		COG0706	Membrane protein insertase MisCA
+E745_02739	CDS	357	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+E745_02740	CDS	135	rpmH			50S ribosomal protein L34
+E745_02741	CDS	594				hypothetical protein
+E745_02742	CDS	153				hypothetical protein
+E745_02743	CDS	2025				hypothetical protein
+E745_02744	CDS	1206				hypothetical protein
+E745_02745	CDS	645				hypothetical protein
+E745_02746	CDS	807				hypothetical protein
+E745_02747	CDS	231				hypothetical protein
+E745_02748	CDS	309				hypothetical protein
+E745_02749	CDS	423				hypothetical protein
+E745_02750	CDS	1590				hypothetical protein
+E745_02751	CDS	228				hypothetical protein
+E745_02752	CDS	1251				IS110 family transposase ISSpn10
+E745_02753	CDS	2373				hypothetical protein
+E745_02754	CDS	1470				hypothetical protein
+E745_02755	CDS	2010	topB_3	5.6.2.1	COG0550	DNA topoisomerase 3
+E745_02756	CDS	150				hypothetical protein
+E745_02757	CDS	597				hypothetical protein
+E745_02758	CDS	900				hypothetical protein
+E745_02759	CDS	132	ssbA		COG0629	Single-stranded DNA-binding protein A
+E745_02760	CDS	306	ssb_2		COG0629	Single-stranded DNA-binding protein
+E745_02761	CDS	258				hypothetical protein
+E745_02762	CDS	207				hypothetical protein
+E745_02763	CDS	252				hypothetical protein
+E745_02764	CDS	156				hypothetical protein
+E745_02765	CDS	273				hypothetical protein
+E745_02766	CDS	180				hypothetical protein
+E745_02767	CDS	357				hypothetical protein
+E745_02768	CDS	282				hypothetical protein
+E745_02769	CDS	954			COG2826	IS30 family transposase IS1252
+E745_02770	CDS	264				hypothetical protein
+E745_02771	CDS	291				hypothetical protein
+E745_02772	CDS	1179				IS256 family transposase ISEf1
+E745_02773	CDS	1947	manR_3		COG1762	Transcriptional regulator ManR
+E745_02774	CDS	456				hypothetical protein
+E745_02775	CDS	1329	gatC_3		COG3775	PTS system galactitol-specific EIIC component
+E745_02776	CDS	285				hypothetical protein
+E745_02777	CDS	516				hypothetical protein
+E745_02778	CDS	663	rpe_2	5.1.3.1		Ribulose-phosphate 3-epimerase
+E745_02779	CDS	573	hxlB	5.3.1.27	COG0794	3-hexulose-6-phosphate isomerase
+E745_02780	CDS	1521				IS66 family transposase ISCth11
+E745_02781	CDS	180				hypothetical protein
+E745_02782	CDS	183				hypothetical protein
+E745_02783	CDS	600	xerC_12			Tyrosine recombinase XerC
+E745_02784	CDS	600				hypothetical protein
+E745_02785	CDS	420				IS6 family transposase IS1216V
+E745_02786	CDS	285				hypothetical protein
+E745_02787	CDS	873	gmuE_5	2.7.1.4	COG1940	Putative fructokinase
+E745_02788	CDS	1173				IS256 family transposase IS256
+E745_02789	CDS	1947				hypothetical protein
+E745_02790	CDS	1440	scrB_1	3.2.1.26		Sucrose-6-phosphate hydrolase
+E745_02791	CDS	963	degA_4		COG1609	HTH-type transcriptional regulator DegA
+E745_02792	CDS	804				IS3 family transposase ISEfa10
+E745_02793	CDS	582				IS3 family transposase ISEfa10
+E745_02794	CDS	456				IS200/IS605 family transposase ISAac3
+E745_02795	CDS	234				hypothetical protein
+E745_02796	CDS	1320				IS1380 family transposase IS1678
+E745_02797	CDS	219				hypothetical protein
+E745_02798	CDS	819	rpiR		COG1737	HTH-type transcriptional regulator RpiR
+E745_02799	CDS	690	nanE_2	5.1.3.9	COG3010	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+E745_02800	CDS	1503	glcB		COG2190	PTS system glucoside-specific EIICBA component
+E745_02801	CDS	1251				IS110 family transposase ISSpn10
+E745_02802	CDS	477				hypothetical protein
+E745_02803	CDS	837				IS3 family transposase IS1485
+E745_02804	CDS	519				hypothetical protein
+E745_02805	CDS	1086	xerS		COG0582	Tyrosine recombinase XerS
+E745_02806	CDS	954			COG2826	IS30 family transposase IS1252
+E745_02807	CDS	1251	licC_3		COG1455	Lichenan permease IIC component
+E745_02808	CDS	927				hypothetical protein
+E745_02809	CDS	996	lacD	4.1.2.40		Tagatose 1,6-diphosphate aldolase
+E745_02810	CDS	1170	agaS	3.5.99.-	COG2222	D-galactosamine-6-phosphate deaminase AgaS
+E745_02811	CDS	735	nagR_2		COG2188	HTH-type transcriptional repressor NagR
+E745_02812	CDS	837				IS3 family transposase IS1485
+E745_02813	CDS	1428				IS1182 family transposase ISEfa12
+E745_02814	CDS	405				hypothetical protein
+E745_02815	CDS	1149				IS200/IS605 family transposase ISEfa4
+E745_02816	CDS	1386	treP_2		COG1263	PTS system trehalose-specific EIIBC component
+E745_02817	CDS	1341	scrB_2	3.2.1.26	COG1621	Sucrose-6-phosphate hydrolase
+E745_02818	CDS	855	rhaS_3			HTH-type transcriptional activator RhaS
+E745_02819	CDS	2193	agaA_3	3.2.1.22		Alpha-galactosidase AgaA
+E745_02820	CDS	456	crr			PTS system glucose-specific EIIA component
+E745_02821	CDS	837				IS3 family transposase IS1485
+E745_02822	CDS	291				IS3 family transposase IS1485
+E745_02823	CDS	537				hypothetical protein
+E745_02824	CDS	807				IS3 family transposase ISEnfa3
+E745_02825	CDS	864				IS256 family transposase ISBsu2
+E745_02826	CDS	378				IS256 family transposase ISBsu2
+E745_02827	CDS	1296				ISL3 family transposase ISEfa5
+E745_02828	CDS	405				hypothetical protein
+E745_02829	CDS	1149				IS200/IS605 family transposase ISEfa4
+E745_02830	CDS	261				hypothetical protein
+E745_02831	CDS	1179				IS256 family transposase ISEf1
+E745_02832	CDS	1320				hypothetical protein
+E745_02833	CDS	654	qseB			Transcriptional regulatory protein QseB
+E745_02834	CDS	1275				ISL3 family transposase IS1476
+E745_02835	CDS	1614	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+E745_02836	CDS	933				hypothetical protein
+E745_02837	CDS	1662				hypothetical protein
+E745_02838	CDS	2982	ebgA	3.2.1.23	COG3250	Evolved beta-galactosidase subunit alpha
+E745_02839	CDS	1914				hypothetical protein
+E745_02840	CDS	612				hypothetical protein
+E745_02841	CDS	1473				hypothetical protein
+E745_02842	CDS	912	araQ_7		COG0395	L-arabinose transport system permease protein AraQ
+E745_02843	CDS	939	yteP_3		COG4209	putative multiple-sugar transport system permease YteP
+E745_02844	CDS	1575				hypothetical protein
+E745_02845	CDS	729			COG4753	putative response regulatory protein
+E745_02846	CDS	1275				ISL3 family transposase IS1476
+E745_02847	CDS	1032	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+E745_02848	CDS	831				hypothetical protein
+E745_02849	CDS	816				hypothetical protein
+E745_02850	CDS	825				hypothetical protein
+E745_02851	CDS	1101				hypothetical protein
+E745_02852	CDS	786	hisK	3.1.3.15	COG1387	Histidinol-phosphatase
+E745_02853	CDS	288				hypothetical protein
+E745_02854	CDS	237				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+E745_02855	CDS	816	cutD	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+E745_02856	CDS	696				IS1182 family transposase ISEfa7
+E745_02857	CDS	492				hypothetical protein
+E745_02858	CDS	1296				ISL3 family transposase ISEfa5
+E745_02859	CDS	1548				IS66 family transposase ISRob1
+E745_02860	CDS	195				hypothetical protein
+E745_02861	CDS	102				hypothetical protein
+E745_02862	CDS	1377				hypothetical protein
+E745_02863	CDS	657			COG1136	putative ABC transporter ATP-binding protein
+E745_02864	CDS	1278				hypothetical protein
+E745_02865	CDS	291				IS3 family transposase ISEfa8
+E745_02866	CDS	837				IS3 family transposase ISEfa8
+E745_02867	CDS	375	resA			Thiol-disulfide oxidoreductase ResA
+E745_02868	CDS	543				hypothetical protein
+E745_02869	CDS	291				IS3 family transposase ISEfa8
+E745_02870	CDS	837				IS3 family transposase ISEfa8
+E745_02871	CDS	321				hypothetical protein
+E745_02872	CDS	960			COG2826	IS30 family transposase IS1062
+E745_02873	CDS	606				hypothetical protein
+E745_02874	CDS	1149				IS200/IS605 family transposase ISEfa4
+E745_02875	CDS	405				hypothetical protein
+E745_02876	CDS	555	xerC_13			Tyrosine recombinase XerC
+E745_02877	CDS	909				IS982 family transposase ISEfm1
+E745_02878	CDS	606		2.7.7.-	COG2184	Protein adenylyltransferase NmFic
+E745_02879	CDS	300				hypothetical protein
+E745_02880	CDS	954			COG2826	IS30 family transposase IS1252
+E745_02881	CDS	651				hypothetical protein
+E745_02882	CDS	510				hypothetical protein
+E745_02883	CDS	564	hsdS		COG0732	Type-1 restriction enzyme EcoKI specificity protein
+E745_02884	CDS	1044				hypothetical protein
+E745_02885	CDS	405	ohrB_2		COG1764	Organic hydroperoxide resistance protein OhrB
+E745_02886	CDS	249				hypothetical protein
+E745_02887	CDS	1179				IS256 family transposase ISEf1
+E745_02888	CDS	612			COG2826	IS30 family transposase IS6770
+E745_02889	CDS	1179				IS256 family transposase ISEf1
+E745_02890	CDS	297				hypothetical protein
+E745_02891	CDS	879				hypothetical protein
+E745_02892	CDS	960			COG2826	IS30 family transposase IS6770
+E745_02893	CDS	672			COG2826	IS30 family transposase IS1062
+E745_02894	CDS	1431	bglF_4		COG1263	PTS system beta-glucoside-specific EIIBCA component
+E745_02895	CDS	1296				ISL3 family transposase IS1251
+E745_02896	CDS	843	licT_4		COG3711	Transcription antiterminator LicT
+E745_02897	CDS	1467	bglH_3	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+E745_02898	CDS	1845	bglF_5		COG1263	PTS system beta-glucoside-specific EIIBCA component
+E745_02899	CDS	681				IS6 family transposase IS1216E
+E745_02900	CDS	810	manZ_7		COG3716	PTS system mannose-specific EIID component
+E745_02901	CDS	747	sorA_3		COG3715	PTS system sorbose-specific EIIC component
+E745_02902	CDS	468		2.7.1.-		putative phosphotransferase enzyme IIB component
+E745_02903	CDS	411	manX_6	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+E745_02904	CDS	1014	frlB_2	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+E745_02905	CDS	735	yurK		COG2188	putative HTH-type transcriptional regulator YurK
+E745_02906	CDS	699	fadR			Fatty acid metabolism regulator protein
+E745_02907	CDS	156				IS6 family transposase IS1216V
+E745_02908	CDS	459				IS6 family transposase IS1216V
+E745_02909	CDS	828				hypothetical protein
+E745_02910	CDS	633	hxpB	3.1.3.68	COG0637	Hexitol phosphatase B
+E745_02911	CDS	2724	norR_2			Anaerobic nitric oxide reductase transcription regulator NorR
+E745_02912	CDS	966	frlB_3	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+E745_02913	CDS	813	manZ_8		COG3716	PTS system mannose-specific EIID component
+E745_02914	CDS	774	sorA_4		COG3715	PTS system sorbose-specific EIIC component
+E745_02915	CDS	471	manX_7	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+E745_02916	CDS	417				hypothetical protein
+E745_02917	CDS	825				hypothetical protein
+E745_02918	CDS	1149				IS200/IS605 family transposase ISEfa4
+E745_02919	CDS	405				hypothetical protein
+E745_02920	CDS	1425				hypothetical protein
+E745_02921	CDS	606				hypothetical protein
+E745_02922	CDS	321				IS6 family transposase IS1216V
+E745_02923	CDS	360				IS6 family transposase IS1297
+E745_02924	CDS	1428				IS1182 family transposase ISEfa12
+E745_02925	CDS	549				hypothetical protein
+E745_02926	CDS	858	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+E745_02927	CDS	288				hypothetical protein
+E745_02928	CDS	330				hypothetical protein
+E745_02929	CDS	681				IS6 family transposase IS1216E
+E745_02930	CDS	318				hypothetical protein
+E745_02931	CDS	255				hypothetical protein
+E745_02932	CDS	264				ISL3 family transposase IS1251
+E745_02933	CDS	924				ISL3 family transposase IS1251
+E745_02934	CDS	1296				ISL3 family transposase ISEfa5
+E745_02935	CDS	1296				ISL3 family transposase ISEfa5
+E745_02936	CDS	1296				ISL3 family transposase ISEfa5
+E745_02937	CDS	1041				hypothetical protein
+E745_02938	CDS	333				hypothetical protein
+E745_02939	CDS	156				hypothetical protein
+E745_02940	CDS	123				hypothetical protein
+E745_02941	CDS	240				hypothetical protein
+E745_02942	CDS	690				hypothetical protein
+E745_02943	CDS	1074				hypothetical protein
+E745_02944	CDS	675				hypothetical protein
+E745_02945	CDS	1977				hypothetical protein
+E745_02946	CDS	753	srtA	3.4.22.-		Sortase A
+E745_02947	CDS	756				hypothetical protein
+E745_02948	CDS	261				hypothetical protein
+E745_02949	CDS	2091				hypothetical protein
+E745_02950	CDS	435				hypothetical protein
+E745_02951	CDS	243				hypothetical protein
+E745_02952	CDS	303				hypothetical protein
+E745_02953	CDS	2064				hypothetical protein
+E745_02954	CDS	1830				hypothetical protein
+E745_02955	CDS	1899				hypothetical protein
+E745_02956	CDS	792				hypothetical protein
+E745_02957	CDS	1509				hypothetical protein
+E745_02958	CDS	627				hypothetical protein
+E745_02959	CDS	93				hypothetical protein
+E745_02960	CDS	618	bin3_1			Putative transposon Tn552 DNA-invertase bin3
+E745_02961	CDS	171				hypothetical protein
+E745_02962	CDS	1491				hypothetical protein
+E745_02963	CDS	300				hypothetical protein
+E745_02964	CDS	285				hypothetical protein
+E745_02965	CDS	399				hypothetical protein
+E745_02966	CDS	681				IS6 family transposase IS1216E
+E745_02967	CDS	609	vanX	3.4.13.22		D-alanyl-D-alanine dipeptidase
+E745_02968	CDS	1032	vanA	6.1.2.1		Vancomycin/teicoplanin A-type resistance protein VanA
+E745_02969	CDS	969	vanH	1.1.1.-		D-specific alpha-keto acid dehydrogenase
+E745_02970	CDS	1143	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+E745_02971	CDS	696	walR_2		COG0745	Transcriptional regulatory protein WalR
+E745_02972	CDS	681				IS6 family transposase IS1216E
+E745_02973	CDS	297				hypothetical protein
+E745_02974	CDS	1494				hypothetical protein
+E745_02975	CDS	954	soj_3	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+E745_02976	CDS	276				hypothetical protein
+E745_02977	CDS	237				hypothetical protein
+E745_02978	CDS	681				IS6 family transposase IS1216E
+E745_02979	CDS	492	repN			Replication initiation protein
+E745_02980	CDS	420				hypothetical protein
+E745_02981	CDS	318				hypothetical protein
+E745_02982	CDS	363				hypothetical protein
+E745_02983	CDS	1416				hypothetical protein
+E745_02984	CDS	525				hypothetical protein
+E745_02985	CDS	681				IS6 family transposase IS1216E
+E745_02986	CDS	594	repD			Replication initiation protein
+E745_02987	CDS	318				hypothetical protein
+E745_02988	CDS	681				IS6 family transposase IS1216E
+E745_02989	CDS	1371				Tn3 family transposase TnBth1
+E745_02990	CDS	606	bin3_2			Putative transposon Tn552 DNA-invertase bin3
+E745_02991	CDS	168				hypothetical protein
+E745_02992	CDS	300	ligA_2	6.5.1.2		DNA ligase
+E745_02993	CDS	618	bin3_3			Putative transposon Tn552 DNA-invertase bin3
+E745_02994	CDS	387				hypothetical protein
+E745_02995	CDS	2352				hypothetical protein
+E745_02996	CDS	366				hypothetical protein
+E745_02997	CDS	363				hypothetical protein
+E745_02998	CDS	453				hypothetical protein
+E745_02999	CDS	648				IS6 family transposase IS1216E
+E745_03000	CDS	381				hypothetical protein
+E745_03001	CDS	915				hypothetical protein
+E745_03002	CDS	690				hypothetical protein
+E745_03003	CDS	738				hypothetical protein
+E745_03004	CDS	540				hypothetical protein
+E745_03005	CDS	171				hypothetical protein
+E745_03006	CDS	462				hypothetical protein
+E745_03007	CDS	375				hypothetical protein
+E745_03008	CDS	759				hypothetical protein
+E745_03009	CDS	1041				hypothetical protein
+E745_03010	CDS	603	yxdL_2		COG1136	ABC transporter ATP-binding protein YxdL
+E745_03011	CDS	147				hypothetical protein
+E745_03012	CDS	1041				hypothetical protein
+E745_03013	CDS	651				IS6 family transposase IS1216E
+E745_03014	CDS	696				hypothetical protein
+E745_03015	CDS	201				hypothetical protein
+E745_03016	CDS	180				hypothetical protein
+E745_03017	CDS	270				hypothetical protein
+E745_03018	CDS	258	yoeB_1	3.1.-.-	COG4115	Toxin YoeB
+E745_03019	CDS	1005				hypothetical protein
+E745_03020	CDS	615	bin3_4			Putative transposon Tn552 DNA-invertase bin3
+E745_03021	CDS	897	dinB_2	2.7.7.7		DNA polymerase IV
+E745_03022	CDS	444				hypothetical protein
+E745_03023	CDS	246				hypothetical protein
+E745_03024	CDS	180				hypothetical protein
+E745_03025	CDS	291				hypothetical protein
+E745_03026	CDS	789	soj_4	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+E745_03027	CDS	327				hypothetical protein
+E745_03028	CDS	207				hypothetical protein
+E745_03029	CDS	207				hypothetical protein
+E745_03030	CDS	195				IS6 family transposase IS1216E
+E745_03031	CDS	414				hypothetical protein
+E745_03032	CDS	330				hypothetical protein
+E745_03033	CDS	201				hypothetical protein
+E745_03034	CDS	204				hypothetical protein
+E745_03035	CDS	270				hypothetical protein
+E745_03036	CDS	258	yoeB_2	3.1.-.-	COG4115	Toxin YoeB
+E745_03037	CDS	117				hypothetical protein
+E745_03038	CDS	345				hypothetical protein
+E745_03039	CDS	234				hypothetical protein
+E745_03040	CDS	465	bin3_5			Putative transposon Tn552 DNA-invertase bin3
+E745_03041	CDS	1824				hypothetical protein
+E745_03042	CDS	1461				hypothetical protein
+E745_03043	CDS	2205	topB_4	5.6.2.1	COG0550	DNA topoisomerase 3
+E745_03044	CDS	150				hypothetical protein
+E745_03045	CDS	594				hypothetical protein
+E745_03046	CDS	900				hypothetical protein
+E745_03047	CDS	486	ssb_3		COG0629	Single-stranded DNA-binding protein
+E745_03048	CDS	261				hypothetical protein
+E745_03049	CDS	207				hypothetical protein
+E745_03050	CDS	252				hypothetical protein
+E745_03051	CDS	438				hypothetical protein
+E745_03052	CDS	708				hypothetical protein
+E745_03053	CDS	201				hypothetical protein
+E745_03054	CDS	180				hypothetical protein
+E745_03055	CDS	150				hypothetical protein
+E745_03056	CDS	264				hypothetical protein
+E745_03057	CDS	351	pemK	3.1.-.-		Endoribonuclease PemK
+E745_03058	CDS	615	bin3_6			Putative transposon Tn552 DNA-invertase bin3
+E745_03059	CDS	1326	umuC_2		COG0389	Protein UmuC
+E745_03060	CDS	351				hypothetical protein
+E745_03061	CDS	105				hypothetical protein
+E745_03062	CDS	294				hypothetical protein
+E745_03063	CDS	843	soj_5	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+E745_03064	CDS	555				hypothetical protein
+E745_03065	CDS	1086				hypothetical protein
+E745_03066	CDS	333				hypothetical protein
+E745_03067	CDS	330				hypothetical protein
+E745_03068	CDS	342				hypothetical protein
+E745_03069	CDS	240				hypothetical protein
+E745_03070	CDS	240				hypothetical protein
+E745_03071	CDS	672				hypothetical protein
+E745_03072	CDS	1977				hypothetical protein
+E745_03073	CDS	756				hypothetical protein
+E745_03074	CDS	825				hypothetical protein
+E745_03075	CDS	249				hypothetical protein
+E745_03076	CDS	2100				hypothetical protein
+E745_03077	CDS	2067				hypothetical protein
+E745_03078	CDS	207				hypothetical protein
+E745_03079	CDS	468				hypothetical protein
+E745_03080	CDS	243				hypothetical protein
+E745_03081	CDS	303				hypothetical protein
+E745_03082	CDS	2055				hypothetical protein
+E745_03083	CDS	1833				hypothetical protein
+E745_03084	CDS	1899				hypothetical protein
+E745_03085	CDS	792				hypothetical protein
+E745_03086	CDS	2373				hypothetical protein
+E745_03087	CDS	333				hypothetical protein
+E745_03088	CDS	594				hypothetical protein
+E745_03089	CDS	153				hypothetical protein
+E745_03090	CDS	1302				hypothetical protein
+E745_03091	CDS	501				hypothetical protein
+E745_03092	CDS	138				hypothetical protein
+E745_03093	CDS	522				hypothetical protein
+E745_03094	CDS	474				hypothetical protein
+E745_03095	CDS	219				hypothetical protein
+E745_03096	CDS	645				hypothetical protein
+E745_03097	CDS	225				hypothetical protein
+E745_03098	CDS	144				hypothetical protein
+E745_03099	CDS	345				hypothetical protein
+E745_03100	CDS	135				hypothetical protein
+E745_03101	CDS	1074				hypothetical protein
+E745_03102	CDS	270				hypothetical protein
+E745_03103	CDS	297				hypothetical protein
+E745_03104	CDS	423				hypothetical protein
+E745_03105	CDS	1593				hypothetical protein
+E745_03106	CDS	336				hypothetical protein
+E745_03107	CDS	195				hypothetical protein
+E745_03108	CDS	726				IS110 family transposase ISSpn10
+E745_03109	CDS	564				hypothetical protein
+E745_03110	CDS	861				hypothetical protein
+E745_03111	CDS	498				IS1595 family transposase ISSsu9
+E745_03112	CDS	1953				hypothetical protein
+E745_03113	CDS	285				hypothetical protein
+E745_03114	CDS	255				hypothetical protein
+E745_03115	CDS	1602				hypothetical protein
+E745_03116	CDS	300				hypothetical protein
+E745_03117	CDS	378				hypothetical protein
+E745_03118	CDS	2364	topB_5	5.6.2.1		DNA topoisomerase 3
+E745_03119	CDS	600	toxN	3.1.-.-		Endoribonuclease ToxN
+E745_03120	CDS	216				hypothetical protein
+E745_03121	CDS	207				hypothetical protein
+E745_03122	CDS	852	soj_6	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+E745_03123	CDS	438				hypothetical protein
+E745_03124	CDS	300				hypothetical protein
+E745_03125	CDS	444				hypothetical protein
+E745_03126	CDS	324				hypothetical protein
+E745_03127	CDS	114				hypothetical protein
+E745_03128	CDS	3630				hypothetical protein
+E745_03129	CDS	363				hypothetical protein
+E745_03130	CDS	153				hypothetical protein
+E745_03131	CDS	423				hypothetical protein
+E745_03132	CDS	1416				hypothetical protein
+E745_03133	CDS	831				hypothetical protein
+E745_03134	CDS	798				hypothetical protein
+E745_03135	CDS	363				hypothetical protein
+E745_03136	CDS	147				hypothetical protein
+E745_03137	CDS	222				hypothetical protein
+E745_03138	CDS	276				hypothetical protein
+E745_03139	CDS	1827				hypothetical protein
+E745_03140	CDS	717				hypothetical protein
+E745_03141	CDS	1818				hypothetical protein
+E745_03142	CDS	1899				hypothetical protein
+E745_03143	CDS	1008				hypothetical protein
+E745_03144	CDS	2670				hypothetical protein
+E745_03145	CDS	336				hypothetical protein
+E745_03146	CDS	618				hypothetical protein
+E745_03147	CDS	468				hypothetical protein
+E745_03148	CDS	1956				hypothetical protein
+E745_03149	CDS	1137				hypothetical protein
+E745_03150	CDS	651				hypothetical protein
+E745_03151	CDS	897				hypothetical protein
+E745_03152	CDS	231				hypothetical protein
+E745_03153	CDS	297				hypothetical protein
+E745_03154	CDS	468				hypothetical protein
+E745_03155	CDS	1521				hypothetical protein
+E745_03156	CDS	330				hypothetical protein
+E745_03157	CDS	264				hypothetical protein
+E745_03158	CDS	867				hypothetical protein
+E745_03159	CDS	1827				hypothetical protein
+E745_03160	CDS	1074				hypothetical protein
+E745_03161	CDS	261				hypothetical protein
+E745_03162	CDS	1005				hypothetical protein
+E745_03163	CDS	357				hypothetical protein
+E745_03164	CDS	192				hypothetical protein
+E745_03165	CDS	219				hypothetical protein
+E745_03166	CDS	318				hypothetical protein
+E745_03167	CDS	189				hypothetical protein
+E745_03168	CDS	969				hypothetical protein
+E745_03169	CDS	1104				hypothetical protein
+E745_03170	CDS	195				hypothetical protein
+E745_03171	CDS	354				hypothetical protein
+E745_03172	CDS	1548				IS66 family transposase ISRob1
+E745_03173	CDS	378				hypothetical protein
+E745_03174	CDS	189				hypothetical protein
+E745_03175	CDS	522				hypothetical protein
+E745_03176	CDS	897				hypothetical protein
+E745_03177	CDS	1383				hypothetical protein
+E745_03178	CDS	783				hypothetical protein
+E745_03179	CDS	612	bin3_7			Putative transposon Tn552 DNA-invertase bin3
+E745_03180	CDS	117				hypothetical protein
+E745_03181	CDS	150				hypothetical protein
+E745_03182	CDS	171				hypothetical protein
+",1.14772423956081,4.50270084015001e-40
+"E745_00232",NA,-2.09610784267542,4.53590646868617e-40
+"E745_01187","hypothetical protein",1.82422203997322,6.99768284906347e-40
+"E745_00718","PTS system cellobiose-specific EIIC component",5.19195709254909,1.80804133499114e-39
+"E745_01193","hypothetical protein",2.77248096459382,2.91762619375902e-39
+"E745_01745","hypothetical protein",2.80576863368279,3.32514681959379e-39
+"E745_02699","hypothetical protein",-2.09718008487787,3.76224338247654e-39
+"E745_01806","hypothetical protein",-1.88497013278931,8.87831133581131e-39
+"E745_00039","Pyrimidine-nucleoside phosphorylase",-2.17349657210585,1.20630963864313e-38
+"E745_02472",NA,-1.42971771079597,1.44071035255406e-38
+"E745_02164","Phosphocarrier protein HPr",-1.20081535431629,3.67895717907341e-38
+"E745_02790",NA,-3.1502800866561,3.95137769895971e-38
+"E745_00400","Cystathionine gamma-synthase",-2.23316892984799,5.11457687998041e-38
+"E745_00868","hypothetical protein",5.93556818092373,6.20677779846849e-38
+"E745_01900",NA,8.57398696541861,7.73485886944608e-38
+"E745_01514","hypothetical protein",2.96985641532652,9.08100311993485e-38
+"E745_00625","CTP synthase",-2.88160818451115,1.42168498116676e-37
+"E745_02514",NA,-1.14051212503247,3.74664278373587e-37
+"E745_00608","hypothetical protein",5.89224695866402,4.36604578552468e-37
+"E745_01728","hypothetical protein",5.12316287925696,8.06506533720731e-37
+"E745_00174",NA,2.28862807380001,1.73439599047032e-36
+"E745_00990",NA,1.60992240953474,2.11519060801688e-36
+"E745_01865","30S ribosomal protein S20",-2.45942410297813,6.06361427981805e-36
+"E745_02282","hypothetical protein",4.14714486734117,2.02920081536217e-35
+"E745_03057",NA,2.67411761389953,2.02920081536217e-35
+"E745_01471","Glucose uptake protein GlcU",3.04154010663467,2.5669544747038e-35
+"E745_01470","Glucose 1-dehydrogenase 4",2.80965044802013,3.27672014982681e-35
+"E745_03056",NA,2.18230063370784,7.00806773203098e-35
+"E745_01636","hypothetical protein",6.74386115348742,2.25105411647035e-34
+"E745_02396",NA,-2.58140585872132,5.42132700565687e-34
+"E745_01057",NA,-1.30019625445494,2.50367080844036e-33
+"E745_01667","Alkyl hydroperoxide reductase C",-5.22355969581169,1.07059599797798e-32
+"E745_00405","4-hydroxy-tetrahydrodipicolinate synthase",3.1200495829599,4.60149154746108e-32
+"E745_01097",NA,2.45393211239309,5.00034145690487e-32
+"E745_01798","Cysteine synthase",1.72223776057643,8.19529963553583e-32
+"E745_00008","Single-stranded DNA-binding protein",-1.0391437924885,9.52642549524702e-32
+"E745_02405",NA,3.33562986000822,1.06835997432734e-31
+"E745_02312","DegV domain-containing protein",-1.91161439243018,2.56267094706277e-31
+"E745_00015","putative ABC transporter ATP-binding protein YbiT",-2.13739956793628,6.11600124787338e-31
+"E745_00640","hypothetical protein",1.97282792608595,1.12705660396296e-30
+"E745_01485","Membrane-bound lytic murein transglycosylase F",-1.03110182011364,1.20614412915513e-30
+"E745_01655","1-deoxy-D-xylulose-5-phosphate synthase",-3.23810313429311,1.41112422545049e-30
+"E745_02789",NA,-4.82758559692787,2.03658883906034e-30
+"E745_00409","Aspartokinase 3",2.27271443291299,2.45335573281859e-30
+"E745_01638","hypothetical protein",3.31813834037171,2.76197784434923e-30
+"E745_01460","Transcription termination/antitermination protein NusA",-1.80483694591364,2.87325374253776e-30
+"E745_01805","Adenine phosphoribosyltransferase",-2.37320595381358,5.57011084590179e-30
+"E745_02141","Ribosomal silencing factor RsfS",-2.63093656245812,5.95390768977619e-30
+"E745_02210","hypothetical protein",-2.18096068724274,1.30779302679063e-29
+"E745_00404","Diaminopimelate epimerase",2.89268840251048,1.38628324388726e-29
+"E745_01130",NA,1.20193325991647,1.41875096944218e-29
+"E745_01855","hypothetical protein",1.76782622752777,5.13179764660046e-29
+"E745_01480","Heat-inducible transcription repressor HrcA",-2.38791455348665,6.60491422098276e-29
+"E745_00865","hypothetical protein",3.8572768511083,8.24559001056796e-29
+"E745_01703","Lipid II flippase MurJ",-2.49681675553017,1.62539222886745e-28
+"E745_01831","Phenylalanine--tRNA ligase alpha subunit",-2.46191780308077,1.763338708369e-28
+"E745_00717","Lichenan-specific phosphotransferase enzyme IIA component",6.29419847041533,5.33165125846036e-28
+"E745_03158",NA,2.48508713865408,5.60529624442892e-28
+"E745_00584","Phosphate acetyltransferase",-2.04845210793771,7.32280507494472e-28
+"E745_00007","30S ribosomal protein S6",-1.68043347147566,1.0239154124195e-27
+"E745_00464","putative amino acid permease YhdG",-2.33827649383746,1.09198015536941e-27
+"E745_01694","hypothetical protein",-2.99542833352134,9.21825600977771e-27
+"E745_02168","Peptide chain release factor 3",-1.95461981583729,1.13480921101567e-26
+"E745_02383",NA,1.95331497548389,1.52277703289828e-26
+"E745_00481",NA,3.96859372804048,1.68814838917716e-26
+"E745_01370","hypothetical protein",2.32133875644104,2.11895905875104e-26
+"E745_00669","C4-dicarboxylic acid transporter DauA",-3.19645958779172,3.46421229048201e-26
+"E745_02382",NA,-1.99564381107095,5.06668078416411e-26
+"E745_01358","hypothetical protein",1.36751017251711,8.30251027478187e-26
+"E745_01591","hypothetical protein",5.07799379214661,8.79076220863592e-26
+"E745_01481","Protein GrpE",-2.09337277023181,1.55632719570981e-25
+"E745_00440","putative pyridine nucleotide-disulfide oxidoreductase RclA",4.02341576006341,2.29095360635984e-25
+"E745_02064",NA,2.93402808700032,3.86266701216505e-25
+"E745_01641","hypothetical protein",3.72487838092924,5.06784450151594e-25
+"E745_03036",NA,2.99520574404496,1.51854304196057e-24
+"E745_01683","Cyclopropane-fatty-acyl-phospholipid synthase",-2.22609182221201,2.56161451540614e-24
+"E745_00009","30S ribosomal protein S18",-1.54241221520336,2.68474984629571e-24
+"E745_01184","Membrane protein insertase YidC",-2.19991714899356,5.37717975168901e-24
+"E745_00916",NA,2.26413059012544,7.46631176374637e-24
+"E745_03018",NA,3.04001228187714,8.20501769828055e-24
+"E745_02381",NA,-1.14643836861585,1.14783000554941e-23
+"E745_01323","hypothetical protein",4.30130381886653,1.42983186445156e-23
+"E745_00382","Trehalose-6-phosphate hydrolase",-2.85129546693917,5.30231281245619e-23
+"E745_02001",NA,-1.53924361608487,7.79350341557628e-23
+"E745_00408","Aspartate-semialdehyde dehydrogenase",2.46908540338513,9.69442338512322e-23
+"E745_01795","hypothetical protein",2.58295014704969,1.2733467393018e-22
+"E745_02034",NA,-2.04329591905347,1.27383141536149e-22
+"E745_02969",NA,1.7599575715071,1.50395604724894e-22
+"E745_01633","General stress protein A",7.42916767988039,2.16659659035946e-22
+"E745_01904",NA,11.7700871716621,2.19386270546524e-22
+"E745_02296","hypothetical protein",3.91804099328872,4.22906302120148e-22
+"E745_01804","hypothetical protein",3.44990019602727,4.96091546933694e-22
+"E745_01757","Carbamoyl-phosphate synthase large chain",1.54651978412469,6.02155180254824e-22
+"E745_02024",NA,-1.61951940287886,8.66120781454693e-22
+"E745_01488","D-aspartate ligase",-1.41920335566399,9.68609378449579e-22
+"E745_00441","hypothetical protein",4.18962271120006,1.140175956613e-21
+"E745_02194","Endolytic murein transglycosylase",-1.4010088381215,1.140175956613e-21
+"E745_01911",NA,1.17670730144409,1.24700713724882e-21
+"E745_02478",NA,-2.3988312284975,1.40947723758212e-21
+"E745_01527","putative RNA methyltransferase",-2.46133194596516,2.77818960692368e-21
+"E745_02295","hypothetical protein",6.15591074794837,3.68417241428591e-21
+"E745_01063",NA,-1.65629508220364,3.69621529391903e-21
+"E745_00167",NA,-1.0055504729829,5.59108428874873e-21
+"E745_00989",NA,1.54779431291301,9.11450359883222e-21
+"E745_02412",NA,1.20851171959208,9.832540303424e-21
+"E745_01888",NA,-1.70426915314251,1.37003083812041e-20
+"E745_00538","LOG family protein YvdD",-4.15269537177677,1.52061493053963e-20
+"E745_00675","PTS system mannose-specific EIIAB component",1.24244167191789,1.58454752892537e-20
+"E745_02411",NA,1.84355966774153,1.58975298401312e-20
+"E745_02020",NA,-1.63262340741332,2.8184939355045e-20
+"E745_01907",NA,3.78256704095426,3.02267355275362e-20
+"E745_00105","Oligopeptide transport ATP-binding protein OppD",1.76824495766693,3.33226622040938e-20
+"E745_00480",NA,5.39852586345852,3.5097709190209e-20
+"E745_02180","Superoxide dismutase [Mn]",1.05696377771434,5.44624661629245e-20
+"E745_00354","hypothetical protein",-3.64585166041099,8.76945580277876e-20
+"E745_00248",NA,1.66493602460319,8.78446535712083e-20
+"E745_01429","Glucokinase",-1.74452111117063,1.4846727075024e-19
+"E745_01131",NA,-2.67905866007314,2.04888979683662e-19
+"E745_01463","Translation initiation factor IF-2",-1.00653192951612,2.17043131685595e-19
+"E745_01704","Protein DegV",-2.94028603784565,2.47135918546711e-19
+"E745_01955",NA,1.60170490258933,2.53927380826072e-19
+"E745_01459","Ribosome maturation factor RimP",-2.18589576317729,2.71950945571475e-19
+"E745_02213","hypothetical protein",-1.85787889520308,3.03672168900718e-19
+"E745_01979",NA,5.87601564528152,4.24591314064361e-19
+"E745_01886",NA,-1.20022780513488,4.97866040683605e-19
+"E745_02592",NA,-1.14500597273646,6.71064413030067e-19
+"E745_01905",NA,10.8313483552705,6.74487975480848e-19
+"E745_02290","hypothetical protein",4.42887209235365,1.04459001412878e-18
+"E745_00557","hypothetical protein",2.40586148776592,1.27213565400672e-18
+"E745_00337",NA,-4.2204344869212,1.35475242153579e-18
+"E745_01666","NADH dehydrogenase",-4.46607801677989,1.36036052463907e-18
+"E745_01693","Nucleoside permease NupC",-3.05777011428174,1.56338998016006e-18
+"E745_00548","Nucleoside diphosphate kinase",2.4463298278322,1.74144279205666e-18
+"E745_01418","Asparagine synthetase [glutamine-hydrolyzing] 1",-1.20117244045951,1.87342072217823e-18
+"E745_01466","Xylulose-5-phosphate phosphoketolase",2.55213248282498,2.17379037902281e-18
+"E745_02285","hypothetical protein",3.6185972796945,2.84295156457216e-18
+"E745_02477",NA,-1.85830215863253,3.14036735179276e-18
+"E745_00154",NA,1.32767180122921,3.6346057620375e-18
+"E745_01912",NA,1.51587081322828,3.69338871899723e-18
+"E745_01372","hypothetical protein",2.50611827456382,4.1476853743703e-18
+"E745_03167",NA,1.92489908799723,4.32131453241144e-18
+"E745_01157",NA,-3.3902819423933,5.43101486489024e-18
+"E745_00682","putative protein",1.02388937908694,7.85659892178786e-18
+"E745_02883",NA,3.52584507877703,8.34567795332326e-18
+"E745_02966",NA,2.27101959959536,8.50648876431292e-18
+"E745_01506","Glutamine--fructose-6-phosphate aminotransferase [isomerizing]",-1.12760050965357,1.20752560357789e-17
+"E745_02735",NA,-1.92620916710659,1.35229381920207e-17
+"E745_01563","UDP-N-acetylmuramate--L-alanine ligase",-1.20581373640089,2.09235793071205e-17
+"E745_01483","Chaperone protein DnaJ",-1.81343502054522,2.22431208784303e-17
+"E745_01631","hypothetical protein",4.92963856808348,2.34139247972205e-17
+"E745_02999",NA,2.86870774287333,2.85353228845493e-17
+"E745_02177","Tryptophan-rich protein TspO",2.30708912221199,3.34825631738046e-17
+"E745_01248","hypothetical protein",-2.36556422927891,3.42382334330333e-17
+"E745_00634","hypothetical protein",3.11287897027589,4.07909542806623e-17
+"E745_00411","putative N-acetyl-LL-diaminopimelate aminotransferase",1.73641278491493,4.61346576601809e-17
+"E745_02283","hypothetical protein",4.15761964361009,5.21558066833438e-17
+"E745_01419","hypothetical protein",3.33604005091057,5.49431069839088e-17
+"E745_01601","hypothetical protein",3.07612025007469,6.84891262752604e-17
+"E745_01421","Dihydrofolate reductase",-3.71615344613037,6.93271213664284e-17
+"E745_02294","hypothetical protein",2.30499190923128,8.84120915783415e-17
+"E745_01862","Zinc-transporting ATPase",-2.12443277106312,9.1390787915263e-17
+"E745_00850","Carboxylesterase NlhH",1.79834541278271,9.66473536255189e-17
+"E745_01743","Bicarbonate transport ATP-binding protein CmpD",2.59539144582438,1.15437645021475e-16
+"E745_02574","Cysteine--tRNA ligase",-1.63760191992137,1.34188071435885e-16
+"E745_00401","Cysteine synthase",-1.61052834661996,2.34231460069633e-16
+"E745_01573","hypothetical protein",1.48078583735421,3.13286904573787e-16
+"E745_01708","hypothetical protein",2.00403577437376,3.64287698911919e-16
+"E745_00732","hypothetical protein",3.96090243920729,7.58724278990851e-16
+"E745_00609","putative phosphotransferase enzyme IIB component",5.48160441376055,7.7631593041597e-16
+"E745_02003",NA,-2.30367766444978,8.12128301048025e-16
+"E745_00302",NA,-2.57619006036292,8.52795298689092e-16
+"E745_01739","DNA topoisomerase 3",-1.74497648076519,8.81613137712656e-16
+"E745_02207","hypothetical protein",-1.57619258047145,1.01653421190731e-15
+"E745_00390","Deoxyguanosine kinase",-1.92198207933175,1.11549699553667e-15
+"E745_02734",NA,-1.23413622369991,1.19373475808897e-15
+"E745_02332","putative ABC transporter ATP-binding protein YbiT",-3.21448041057716,1.24958333329552e-15
+"E745_00206",NA,1.09837914851648,1.26012292956821e-15
+"E745_01634","General stress protein A",9.83853933320684,1.50219437886874e-15
+"E745_02410",NA,2.04198983392162,1.53168984046705e-15
+"E745_02313","hypothetical protein",-2.70957409263099,1.60198420854633e-15
+"E745_00639","hypothetical protein",1.57485835780622,1.94533821120527e-15
+"E745_02899",NA,2.41646649025634,2.19625578637607e-15
+"E745_02344","Transcription termination/antitermination protein NusG",-1.61004901017202,2.89384955344381e-15
+"E745_01489","Aspartate racemase",-1.28885986316699,2.97008623793198e-15
+"E745_01991",NA,-1.9051739015613,3.14929086144465e-15
+"E745_00402","Elongation factor P",-1.19681693043443,3.32031571298633e-15
+"E745_01885",NA,-1.07633635531021,3.54368283607582e-15
+"E745_01971",NA,-1.23166038506881,3.72199267599221e-15
+"E745_01973",NA,-2.33276012003895,3.95987995792334e-15
+"E745_01811","GTPase Obg",-1.2406080878773,4.56545605156521e-15
+"E745_01842","hypothetical protein",1.96448767558591,4.97965412463126e-15
+"E745_01810","hypothetical protein",1.21390100717391,5.56562063383974e-15
+"E745_00406","4-hydroxy-tetrahydrodipicolinate reductase",2.40076408939047,5.84352016575679e-15
+"E745_00249",NA,-1.32375308092864,6.16885059684022e-15
+"E745_01452","Uridylate kinase",-1.52522286530211,7.13030646848446e-15
+"E745_01851","Putative universal stress protein",3.28051141724606,7.54045041995871e-15
+"E745_02709","23S rRNA 5-hydroxycytidine synthase",-1.9347220142861,8.42082472016444e-15
+"E745_01974",NA,-1.60523293336894,1.0400287336148e-14
+"E745_00185",NA,-1.34806391021781,1.04270052217072e-14
+"E745_00410","N-acetylcysteine deacetylase",2.20961134341098,1.06300602554436e-14
+"E745_00739","hypothetical protein",3.06091212184647,1.26103072260946e-14
+"E745_02549","hypothetical protein",1.4891846364242,1.61327294995579e-14
+"E745_00550","Phosphorylated carbohydrates phosphatase",-1.79225877844417,1.7403957684771e-14
+"E745_00723","hypothetical protein",2.51547213831701,2.01944994076003e-14
+"E745_01987",NA,2.34380731887403,2.16546711981867e-14
+"E745_00194",NA,-2.08832543237446,2.2019883570036e-14
+"E745_02370",NA,1.07497339198069,2.43514977344575e-14
+"E745_01966",NA,-1.00744670067505,2.64757392658636e-14
+"E745_00040","Deoxyribose-phosphate aldolase",-1.25909457959211,2.75787488686175e-14
+"E745_00398","Glutathione peroxidase BsaA",3.19327655612959,2.75787488686175e-14
+"E745_01632","Sugar phosphatase YidA",5.60854104081462,2.77514559104912e-14
+"E745_01185","Acylphosphatase",2.80861222347149,3.29842067767918e-14
+"E745_02203","dTDP-glucose 4,6-dehydratase",-1.68955805938184,3.38638039736176e-14
+"E745_01440","tRNA N6-adenosine threonylcarbamoyltransferase",-1.79145429847692,4.0181571050457e-14
+"E745_02211","Vitamin B12 import ATP-binding protein BtuD",-1.89319245406759,4.0181571050457e-14
+"E745_00238",NA,5.18687678590329,4.71777560906833e-14
+"E745_01373","hypothetical protein",2.72702140743602,5.35638605318865e-14
+"E745_00531",NA,2.45993165684395,5.83454137376071e-14
+"E745_00549","Magnesium-transporting ATPase, P-type 1",-2.23100118758631,6.09057805384839e-14
+"E745_02204","2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase",-1.60169410521457,6.4844856520479e-14
+"E745_02201","Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase",-2.62760847349672,1.60497973596958e-13
+"E745_00186",NA,-1.57129795209404,2.94093411819365e-13
+"E745_02738",NA,-1.39842684925132,4.06016690871017e-13
+"E745_02791",NA,-2.77258660364289,4.18895894945887e-13
+"E745_02289","hypothetical protein",4.02736037399615,4.54256702407496e-13
+"E745_02212","Teichoic acid translocation permease protein TagG",-2.87125231560584,4.5493670560043e-13
+"E745_01788","Penicillin-binding protein 1A",-1.09051585594964,5.09430444418449e-13
+"E745_02284","hypothetical protein",3.98360733478446,5.92980083712951e-13
+"E745_01649","hypothetical protein",3.23467855806623,6.3561071318134e-13
+"E745_02324","Fe(2+) transporter FeoB",3.02081588469707,6.40771804004113e-13
+"E745_01709","Thiamine precursor transporter HmpT",1.96963414792598,7.85775776907332e-13
+"E745_02543","DNA-directed RNA polymerase subunit omega",1.07323588736533,7.85775776907332e-13
+"E745_03035",NA,2.68791775028932,9.50927277945535e-13
+"E745_01701","Inner membrane protein YgaZ",-2.4291526508995,1.08833897121499e-12
+"E745_01849","hypothetical protein",3.0120111019295,1.1266965583338e-12
+"E745_01711","2-succinylbenzoate--CoA ligase",1.76114170295273,1.15160950826736e-12
+"E745_01816","hypothetical protein",-2.20935729034143,1.22489375011235e-12
+"E745_00103","Acyl carrier protein",-1.20164141797006,1.50183878285768e-12
+"E745_00173",NA,1.77451028562087,1.73609963227201e-12
+"E745_00147",NA,-2.55132899444601,1.88659321269955e-12
+"E745_00607","Transcriptional regulatory protein DagR",-1.20722651467387,2.33996278161252e-12
+"E745_00353","Multidrug export protein EmrB",-4.87329885540288,2.3454947200768e-12
+"E745_01707","Oligo-1,6-glucosidase",1.42852193574014,2.74397029157465e-12
+"E745_00857","Collagen adhesin",-1.33130006192112,3.36235477969459e-12
+"E745_00656","D-alanine--D-alanyl carrier protein ligase",-2.4952867389574,3.81186152620436e-12
+"E745_00883","Oligosaccharides import ATP-binding protein MsmX",2.33888857581704,4.1601619594039e-12
+"E745_01744","hypothetical protein",2.37826903067104,4.53011589011931e-12
+"E745_01887",NA,-1.49392172620517,4.62916120043325e-12
+"E745_01954",NA,-3.78319467300661,5.51520345496714e-12
+"E745_02246","hypothetical protein",4.91524302506407,7.07857271372086e-12
+"E745_01137",NA,2.26759791567367,7.71220133234274e-12
+"E745_00246",NA,1.09081383135665,8.818325652278e-12
+"E745_02004",NA,-1.2073692010379,1.19388956421984e-11
+"E745_01647","hypothetical protein",3.23507899555795,1.32047801270639e-11
+"E745_01051",NA,1.48601036786578,1.59952206629092e-11
+"E745_02708","hypothetical protein",-1.28456028350538,1.63211939491275e-11
+"E745_02361",NA,-1.4235635348864,1.77270933255235e-11
+"E745_01365","hypothetical protein",2.70505474182688,2.09060912153102e-11
+"E745_00562","ABC-F type ribosomal protection protein Eat(A)",2.0580591501734,2.3512297000633e-11
+"E745_01962",NA,-1.16716354435789,2.47157163598276e-11
+"E745_01477","putative protease YdeA",2.80851711784151,2.53387147058536e-11
+"E745_03077",NA,1.2819306449971,3.01662704371133e-11
+"E745_00610","hypothetical protein",3.44724544389638,3.07368986444708e-11
+"E745_01515","hypothetical protein",8.4603736881864,3.0802934131124e-11
+"E745_03017",NA,2.53117616036519,3.0802934131124e-11
+"E745_02215","dTDP-4-dehydrorhamnose reductase",-1.2058619547415,3.17737246068644e-11
+"E745_01369","hypothetical protein",2.42826438028369,3.39713415461937e-11
+"E745_01420","50S ribosomal protein L33 1",-2.57704356949832,3.81223384005024e-11
+"E745_02192","hypothetical protein",-1.76040977797926,4.22776218326837e-11
+"E745_02200","hypothetical protein",-1.41444528384021,4.28636701625545e-11
+"E745_01467","Xylulose-5-phosphate phosphoketolase",3.07382553655615,4.28637143309192e-11
+"E745_02929",NA,2.69763418911335,4.57921635002075e-11
+"E745_02303","10 kDa chaperonin",-2.01258105183914,4.93507034034115e-11
+"E745_01972",NA,-1.94651025905146,5.6534110620652e-11
+"E745_00227",NA,-2.61328080050295,6.59548098962668e-11
+"E745_01726","putative oxidoreductase YhhX",-1.83780248741727,6.7032334646555e-11
+"E745_02988",NA,2.23994712330789,6.7435087898288e-11
+"E745_02968",NA,1.26838969218331,7.75807609109521e-11
+"E745_02384",NA,1.6285062728927,8.03194060880603e-11
+"E745_01035",NA,1.23950864357209,8.52160805326905e-11
+"E745_01239","Alkaline phosphatase synthesis sensor protein PhoR",1.23922224683242,8.79341779070499e-11
+"E745_02985",NA,2.54519095603812,8.83625243312532e-11
+"E745_00638","hypothetical protein",1.19188090271967,1.02106299354133e-10
+"E745_00116","Petrobactin import system permease protein YclN",5.18319745560633,1.07629307525197e-10
+"E745_02829",NA,-1.39617415013802,1.18298098141884e-10
+"E745_00372","Bacitracin export permease protein BceB",-1.3351369326697,1.28625182784739e-10
+"E745_01829","Tryptophan--tRNA ligase 2",-1.48815806596844,1.29684718899776e-10
+"E745_03172",NA,2.14358690961237,1.45525275758328e-10
+"E745_02475",NA,-1.32663199840109,1.59843338485884e-10
+"E745_02931",NA,1.67969872191593,1.61347623878627e-10
+"E745_02270","hypothetical protein",3.67805569387392,1.69920631912376e-10
+"E745_01964",NA,-1.23074858937448,2.07223070838332e-10
+"E745_01366","hypothetical protein",2.23258425275535,2.08378693595729e-10
+"E745_02967",NA,1.34565805111345,2.08650953729331e-10
+"E745_01813","2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase",-2.02717856596597,2.26338805998719e-10
+"E745_00106","Oligopeptide transport ATP-binding protein OppF",1.08147499168802,2.56459929215204e-10
+"E745_00407","2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase",2.08702069098587,2.6144414980336e-10
+"E745_01462","putative ribosomal protein YlxQ",-1.52607351303726,2.98363176049466e-10
+"E745_02036",NA,-1.37824051444446,2.98471997555987e-10
+"E745_02908",NA,2.24094586299945,3.39348182745443e-10
+"E745_01927",NA,3.58877110943195,3.92460861760878e-10
+"E745_00988",NA,-1.83232494930752,4.25073506188542e-10
+"E745_01538","3-phosphoshikimate 1-carboxyvinyltransferase",-1.62339973362256,5.68965474899421e-10
+"E745_02227","Aminopeptidase PepS",1.09075529502162,8.32442931494491e-10
+"E745_01382","hypothetical protein",2.07464847211813,8.78596875045706e-10
+"E745_00420","Lactose permease",-4.45648392018986,9.37145823352165e-10
+"E745_02608",NA,-1.82217183002536,9.48776514554578e-10
+"E745_01695","hypothetical protein",-2.41000446985195,9.97495044155168e-10
+"E745_00450","putative manganese catalase",3.83521510864932,1.25720423927014e-09
+"E745_00437","Phosphomannomutase/phosphoglucomutase",1.42250826044161,1.28149884308097e-09
+"E745_00475",NA,-1.44032646127901,1.44870741164183e-09
+"E745_01374","hypothetical protein",2.74610235736773,2.07811228023071e-09
+"E745_00734","hypothetical protein",2.71870076460022,2.15128210421471e-09
+"E745_02597",NA,-2.73722764766665,2.43404797993304e-09
+"E745_02556","High-affinity zinc uptake system binding-protein ZnuA",-2.19982988896241,2.69392626829135e-09
+"E745_01371","hypothetical protein",2.28652557492648,2.72134393527743e-09
+"E745_00498",NA,1.08048387793339,2.78168601264164e-09
+"E745_02347","hypothetical protein",1.40780638689043,2.98917217294378e-09
+"E745_00394","Regulatory protein Spx",3.27771726499293,3.00821865797888e-09
+"E745_01320","Acetolactate synthase",-1.96071608127356,3.13007776005623e-09
+"E745_01600","Foldase protein PrsA",-3.01493913117788,3.19035271290712e-09
+"E745_02259","hypothetical protein",4.50285372193145,3.25859027731242e-09
+"E745_02191","Sensor histidine kinase LiaS",-1.24315129499429,3.52881058161575e-09
+"E745_00770","Chromosome partition protein Smc",3.70791642971713,3.60389127155377e-09
+"E745_00370","hypothetical protein",-2.83238540965765,4.12581183741844e-09
+"E745_01942",NA,2.39879433896016,4.41050089520739e-09
+"E745_02297","hypothetical protein",6.5776622419014,5.14926186849695e-09
+"E745_02780",NA,1.02716002475563,5.14926186849695e-09
+"E745_00709","Glucose-6-phosphate 1-dehydrogenase",-1.06428349265536,5.21298143767143e-09
+"E745_00752","hypothetical protein",2.98024921764384,5.59514947642076e-09
+"E745_03173",NA,1.38232484557492,5.80416843340522e-09
+"E745_02262","hypothetical protein",4.07534845980514,6.2192790686864e-09
+"E745_00816","FMN-dependent NADH-azoreductase",-1.58071627534567,6.52104747721023e-09
+"E745_01635","hypothetical protein",7.70455778454011,7.02220518631182e-09
+"E745_01443","Ornithine carbamoyltransferase, catabolic",-1.54959648813176,7.0594216291779e-09
+"E745_01758","Carbamoyl-phosphate synthase small chain",1.62780566242958,7.27435841108123e-09
+"E745_02949",NA,2.36969453828901,7.30386728137334e-09
+"E745_02830",NA,-1.17014383623926,8.23855271792634e-09
+"E745_00590","UDP-N-acetylenolpyruvoylglucosamine reductase",-1.10795111569813,9.80172045416102e-09
+"E745_00225",NA,-1.43010264203132,9.99906254687658e-09
+"E745_02972",NA,2.34976052313368,1.00405194535957e-08
+"E745_00017","Pyruvate oxidase",1.51328217617712,1.01275369684173e-08
+"E745_02218","Glucose-1-phosphate thymidylyltransferase 1",-1.10155919660172,1.40445085265258e-08
+"E745_01108",NA,1.10572129309621,1.56238355279456e-08
+"E745_03013",NA,2.27969736735362,1.81257912507196e-08
+"E745_01850","hypothetical protein",4.0543146438936,1.97731531371006e-08
+"E745_01321","Alpha-acetolactate decarboxylase",-1.90907903946439,2.05211795710297e-08
+"E745_02390",NA,-2.62065690799479,2.51642720874742e-08
+"E745_01439","[Ribosomal protein S18]-alanine N-acetyltransferase",-2.39935959868957,2.72338822329285e-08
+"E745_01639","hypothetical protein",5.44547230842601,2.94141419969738e-08
+"E745_00247",NA,1.29567492735794,3.00837194539913e-08
+"E745_00371","Bacitracin export ATP-binding protein BceA",-1.96691661790307,3.09536456508914e-08
+"E745_01589","hypothetical protein",1.65061418443958,3.18111643861203e-08
+"E745_02680",NA,2.75444867623736,3.26696644509381e-08
+"E745_02292","hypothetical protein",6.29284803298692,3.39678568430217e-08
+"E745_01454","Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)",-1.64289412841694,3.40634759054126e-08
+"E745_01570","Transcriptional repressor NrdR",1.62617154376055,3.53264045437223e-08
+"E745_01537","hypothetical protein",-1.5593828355458,3.6876701289592e-08
+"E745_01136",NA,1.53910325622898,3.88612786283217e-08
+"E745_01296","IS66 family transposase ISRob1",1.7173524294287,3.93813985505042e-08
+"E745_02205","hypothetical protein",-1.67128511819134,4.01339121074417e-08
+"E745_02945",NA,2.02655247357358,4.6046033947794e-08
+"E745_01970",NA,-1.08288513752995,4.64196082758328e-08
+"E745_00192",NA,1.77732735093063,4.65214966720458e-08
+"E745_03166",NA,1.47867065865224,4.79658574985046e-08
+"E745_01727","hypothetical protein",-1.20558063334842,5.20837973785168e-08
+"E745_01759","Dihydroorotase",1.92771453256815,5.25162629250431e-08
+"E745_02733",NA,-1.81401816734422,5.39164577923749e-08
+"E745_00559","hypothetical protein",1.99367180851132,5.41262849705103e-08
+"E745_02225","Flavodoxin",-1.12448474539863,5.4239755606216e-08
+"E745_02978",NA,2.18136160470993,5.43210754557455e-08
+"E745_00854","hypothetical protein",1.88908471381015,5.65631454185983e-08
+"E745_02601",NA,2.42006310791977,5.68088287303358e-08
+"E745_01658","hypothetical protein",-1.62921737812084,5.75232220649262e-08
+"E745_00494",NA,-2.22312573233097,5.80580149541572e-08
+"E745_01062",NA,1.85384757459436,5.81711040098612e-08
+"E745_02928",NA,2.09064350336588,6.28280133031653e-08
+"E745_00661","hypothetical protein",1.2379915249035,6.53928827510035e-08
+"E745_00864","putative dual-specificity RNA methyltransferase RlmN",-1.52358055204759,7.09759707378345e-08
+"E745_00377","Ribokinase",1.34088016256783,8.19616373423508e-08
+"E745_02175","23S rRNA (uracil-C(5))-methyltransferase RlmCD",-1.4477261167714,1.05790672769429e-07
+"E745_01075",NA,1.83495711633993,1.12630098780687e-07
+"E745_00852","hypothetical protein",1.94696784652119,1.16979103882068e-07
+"E745_00125","hypothetical protein",1.2970487919895,1.25619174087497e-07
+"E745_01160",NA,-1.52384071889249,1.29702009167827e-07
+"E745_02308","hypothetical protein",-1.22767037436933,1.47472136628302e-07
+"E745_01503","Cyclic di-AMP synthase CdaA",1.08277342889178,1.52097778187044e-07
+"E745_00108","hypothetical protein",1.1863928583774,1.55550275435166e-07
+"E745_01710","Pyridoxine kinase",1.15864399711942,1.64587992936845e-07
+"E745_00657","hypothetical protein",-1.50784857952189,1.81574720711747e-07
+"E745_01465","phosphoketolase",2.55473776260745,1.87530127750056e-07
+"E745_02185","IS66 family transposase ISRob1",1.66545068310468,1.94427689402066e-07
+"E745_01762","Bifunctional protein pyrR",2.10266922933366,2.16831601527778e-07
+"E745_00521",NA,1.66145630053364,2.22901244343777e-07
+"E745_00649","Ribosomal RNA small subunit methyltransferase I",-2.07468626134659,2.39916347740213e-07
+"E745_02516",NA,-1.51836344082302,2.44751774348343e-07
+"E745_00094","hypothetical protein",3.74318381339648,2.67137456128341e-07
+"E745_00530",NA,1.30593039902956,2.93908287885785e-07
+"E745_00874","hypothetical protein",1.02383696726431,2.97056746193558e-07
+"E745_01712","Tyrosine recombinase XerC",2.84156210608144,2.97056746193558e-07
+"E745_02037",NA,-1.07454352990683,2.9725294135412e-07
+"E745_02930",NA,1.46535785610832,3.00602029423728e-07
+"E745_00177",NA,-1.16026971280472,3.35032126081797e-07
+"E745_00951",NA,7.0558744830972,3.44178491009742e-07
+"E745_01686","6-aminohexanoate-cyclic-dimer hydrolase",1.26050545729138,3.52169059179227e-07
+"E745_00228",NA,-1.90873595457011,3.57609755716398e-07
+"E745_02593",NA,2.04570421864357,3.60524942336372e-07
+"E745_00572","hypothetical protein",-1.10958113154905,3.73939281704801e-07
+"E745_00654","Bacitracin export permease protein BceB",1.0214072795706,4.19671206335077e-07
+"E745_01852","hypothetical protein",1.21100335977524,5.54611934475278e-07
+"E745_02199","GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase",-1.1358416908115,5.58760239055119e-07
+"E745_02732",NA,-1.33689332584045,5.75254239740151e-07
+"E745_00698","Phospho-N-acetylmuramoyl-pentapeptide-transferase",-1.10937655610426,6.2343224981795e-07
+"E745_00658","D-alanyl carrier protein",-1.72950463420905,6.5600981862343e-07
+"E745_02914",NA,2.56765692090354,7.05185160494751e-07
+"E745_01837","Di-/tripeptide transporter",-1.01931660802556,7.10670987978476e-07
+"E745_02233","IS3 family transposase ISEfa8",1.39874453979761,7.26879766825744e-07
+"E745_00433","Glycine oxidase",-2.21981419447974,7.40777242342255e-07
+"E745_02859",NA,1.62150849004687,7.4449829419446e-07
+"E745_02286","hypothetical protein",4.01981250798598,7.50617658655195e-07
+"E745_00815","hypothetical protein",1.31709994126725,7.77522721475562e-07
+"E745_02480",NA,-2.02348288597955,8.77725858657354e-07
+"E745_01114",NA,1.18728998533,8.81672251664086e-07
+"E745_00041","Cytidine deaminase",-1.23460508716802,1.05561870307621e-06
+"E745_01281","IS3 family transposase ISEfa8",-2.23889518558273,1.41853751810623e-06
+"E745_00576","Nicotinamide riboside transporter PnuC",-1.83652060401408,1.45580233010122e-06
+"E745_01508","Putative signal peptide peptidase SppA",1.02230008806061,1.60037376224488e-06
+"E745_02970",NA,1.32161704334415,1.63988359982182e-06
+"E745_02263","hypothetical protein",6.78150491849147,1.67815568562028e-06
+"E745_00093","hypothetical protein",4.17205343668104,1.7588636167466e-06
+"E745_02255","hypothetical protein",6.7735017644027,1.7588636167466e-06
+"E745_02596",NA,-2.59676006733732,1.82132454445311e-06
+"E745_01768","hypothetical protein",1.20093279000814,1.91701743095731e-06
+"E745_02461",NA,3.57639881964489,2.00659619303358e-06
+"E745_00575","hypothetical protein",-2.08225639872276,2.05194774728816e-06
+"E745_00963",NA,-1.09290750447139,2.17092418644954e-06
+"E745_01437","tRNA threonylcarbamoyladenosine biosynthesis protein TsaB",-2.1648157631585,2.252655282526e-06
+"E745_00149",NA,1.33815392793531,2.44143551459849e-06
+"E745_02844",NA,3.03004242396433,2.6135829657375e-06
+"E745_02033",NA,2.29084297716977,2.62643013334054e-06
+"E745_00115","putative protein YueI",1.75729286144283,2.80207726809051e-06
+"E745_00782","IS3 family transposase ISEfa8",1.50073187625111,2.83755007919016e-06
+"E745_02031",NA,-1.48953440716513,3.31995622319673e-06
+"E745_00699","UDP-N-acetylmuramoylalanine--D-glutamate ligase",-1.05189156667831,3.50664257583339e-06
+"E745_00351","hypothetical protein",2.12122693430582,3.72582422960362e-06
+"E745_01113",NA,1.00992735366655,3.73484989279427e-06
+"E745_01958",NA,3.82122638470106,4.06382257752644e-06
+"E745_01540","Bifunctional chorismate mutase/prephenate dehydratase",-1.50829043851281,4.09129701166791e-06
+"E745_00666","tRNA 5-hydroxyuridine methyltransferase",-1.39898979859241,4.25257760266908e-06
+"E745_01142",NA,2.06255723359276,4.25695623201077e-06
+"E745_01111",NA,1.28204132950533,4.42975175853301e-06
+"E745_02923",NA,1.87608717387122,4.46062738098882e-06
+"E745_00495",NA,-1.92695664238953,4.59017348417358e-06
+"E745_01428","putative protein YqgQ",-1.98878189100279,4.68745931031391e-06
+"E745_02591",NA,-3.44270718944225,4.68745931031391e-06
+"E745_01536","Chorismate synthase",-1.24011668271455,4.71570614869764e-06
+"E745_01945",NA,1.99871416695138,4.71570614869764e-06
+"E745_00915",NA,-1.8149002195893,4.74928981738543e-06
+"E745_00219",NA,1.85787314996495,4.79357885252686e-06
+"E745_00016","hypothetical protein",1.00314783605868,4.81622050928206e-06
+"E745_03128",NA,1.62580631048274,4.86452677872056e-06
+"E745_00307",NA,1.9948246922989,4.87477827663466e-06
+"E745_01126",NA,1.63835535417511,5.13725843710462e-06
+"E745_02360",NA,-1.57193592276047,5.14763691976757e-06
+"E745_01385","hypothetical protein",1.66772245143749,5.91088094786045e-06
+"E745_00736","hypothetical protein",2.24936208322737,5.97306419919367e-06
+"E745_02572","Putative TrmH family tRNA/rRNA methyltransferase",-1.09570023782832,6.01119297500686e-06
+"E745_01957",NA,4.28875656162614,6.28123977815457e-06
+"E745_02288","hypothetical protein",6.51003741221568,6.31029639061338e-06
+"E745_01946",NA,2.56502951208591,6.79820013639718e-06
+"E745_01824","Glutamate racemase",-1.87152767232455,7.09584756607031e-06
+"E745_00737","hypothetical protein",2.76098297708397,7.44267057719095e-06
+"E745_00323",NA,1.35448494534499,7.79547110967729e-06
+"E745_02587",NA,-4.22216638104747,7.79547110967729e-06
+"E745_02625",NA,1.2362896674647,8.17469827564489e-06
+"E745_02462",NA,6.43491030411487,8.36303048289147e-06
+"E745_00835","Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT",-1.25669077749338,8.44096094713727e-06
+"E745_01432","hypothetical protein",1.68920280986325,8.55635809156689e-06
+"E745_02612",NA,1.42968860209579,8.82830156147428e-06
+"E745_02947",NA,2.79134848211091,9.20175272107358e-06
+"E745_00936",NA,3.02316189725512,9.41633486390402e-06
+"E745_01963",NA,-1.75441497751231,9.51986843358226e-06
+"E745_01657","Putative N-acetylmannosamine-6-phosphate 2-epimerase",-3.59072328615978,1.03224456456117e-05
+"E745_02257","hypothetical protein",5.36139796976948,1.05852970444957e-05
+"E745_02279","hypothetical protein",6.39435696806464,1.13211565790052e-05
+"E745_02698","hypothetical protein",1.06801643608181,1.13211565790052e-05
+"E745_02291","hypothetical protein",6.05936210385249,1.16849773317263e-05
+"E745_00750","hypothetical protein",2.87204924864335,1.18799605920658e-05
+"E745_00558","putative amino acid permease YvbW",3.71852629368867,1.20651384705264e-05
+"E745_01469","Bifunctional riboflavin kinase/FMN adenylyltransferase",-1.92984053093742,1.25113393034014e-05
+"E745_01164",NA,-1.47350551795074,1.27532171676182e-05
+"E745_02061",NA,2.59253935720864,1.27532171676182e-05
+"E745_02476",NA,-1.04433561357687,1.28943692991491e-05
+"E745_02349","Putative lipid kinase YtlR",-2.17987767921049,1.31809428881059e-05
+"E745_02523",NA,-1.43409564581064,1.39115350467664e-05
+"E745_01534","Phospho-2-dehydro-3-deoxyheptonate aldolase",-1.49264087423624,1.4191497548884e-05
+"E745_00325",NA,1.78514199042278,1.56461923228402e-05
+"E745_02206","UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase",-1.11906245418248,1.65331129107018e-05
+"E745_00847","Threonylcarbamoyl-AMP synthase",-1.42517602835044,1.68373484042542e-05
+"E745_02394",NA,2.17194794124563,1.72720934585654e-05
+"E745_01836","Di-/tripeptide transporter",-1.20782849951235,1.74475004514618e-05
+"E745_01673","hypothetical protein",-3.52720733674313,1.80697095846072e-05
+"E745_02562","Putative competence-damage inducible protein",-1.05427307916782,1.81370957887154e-05
+"E745_01948",NA,2.96199328019465,2.02390865976011e-05
+"E745_02525",NA,-2.97060544135792,2.06273176476755e-05
+"E745_02217","dTDP-4-dehydrorhamnose 3,5-epimerase",-1.02922708541605,2.3117755418901e-05
+"E745_00846","Release factor glutamine methyltransferase",-1.43851874878205,2.34992718636366e-05
+"E745_00881","Ribosomal RNA small subunit methyltransferase A",-1.10378122436118,2.34992718636366e-05
+"E745_00305",NA,1.80841249047604,2.61420335580612e-05
+"E745_02922",NA,2.47871256479533,2.62493123489442e-05
+"E745_02916",NA,3.64031425126658,2.73867024437809e-05
+"E745_00326",NA,2.7117655923344,2.83154186897021e-05
+"E745_01378","hypothetical protein",3.25307985284759,2.88421773948119e-05
+"E745_00393","Regulatory protein Spx",4.20120226897584,2.92996239879762e-05
+"E745_00492",NA,-1.40592337351849,3.13338677169576e-05
+"E745_02610",NA,-1.20925451442435,3.39494004546093e-05
+"E745_01367","hypothetical protein",1.9309612666843,3.44015014044255e-05
+"E745_02136","hypothetical protein",1.76469909653915,3.55446573626036e-05
+"E745_01820","putative MscS family protein YkuT",-2.01345863348455,3.56039575804659e-05
+"E745_02325","hypothetical protein",3.54623089241799,3.61914083432417e-05
+"E745_02256","hypothetical protein",6.15147915165918,3.71589870528297e-05
+"E745_00650","DNA polymerase IV",1.42675093042137,3.77499487433478e-05
+"E745_00340",NA,-1.48254574414377,3.85391458928308e-05
+"E745_02280","hypothetical protein",6.1493941203674,3.911473963432e-05
+"E745_01692","Guanylate kinase",-3.00216918034895,4.05062537565973e-05
+"E745_01112",NA,1.43783997432426,4.38825195648976e-05
+"E745_00751","hypothetical protein",3.69089342886119,4.39344709200272e-05
+"E745_01559","Serine/threonine-protein phosphatase 1",1.12735159661571,4.48870839865205e-05
+"E745_01461","hypothetical protein",-1.1985988134054,4.62388341292013e-05
+"E745_02046",NA,1.27400937132429,4.62388341292013e-05
+"E745_02571","hypothetical protein",-1.2906747991941,5.18637327177503e-05
+"E745_00226",NA,-1.56272115215001,5.35407555266933e-05
+"E745_01923",NA,2.4289057000641,5.411919417994e-05
+"E745_00363","HTH-type transcriptional regulator GltC",-2.60119293302029,5.61455855005235e-05
+"E745_00844","Thymidine kinase",-1.29426147927442,6.6701298309702e-05
+"E745_00207",NA,-1.44493835681,6.71795886372904e-05
+"E745_02249","hypothetical protein",6.11143704443306,6.86716243146979e-05
+"E745_02375",NA,-2.02603142493978,7.00802428132753e-05
+"E745_02454",NA,-1.07912161140129,7.24651344530021e-05
+"E745_02740",NA,-1.9337422126226,7.33185404441777e-05
+"E745_02804",NA,1.35476486415,7.57428824685181e-05
+"E745_02785",NA,3.27954221743012,8.07245019983589e-05
+"E745_00136","Queuosine precursor transporter QueT",1.27808982963733,8.21236236091234e-05
+"E745_00376","D-ribose pyranase",3.50611945681811,9.02975987797225e-05
+"E745_00436","Arginine repressor",1.12820183468075,9.1401981812654e-05
+"E745_02455",NA,-1.48627221199432,9.3663073103038e-05
+"E745_02464",NA,-2.67755710033907,9.44433224864288e-05
+"E745_02188","hypothetical protein",1.0769950770136,9.7997409392817e-05
+"E745_02272","hypothetical protein",2.51057832485672,9.94086752538737e-05
+"E745_03027",NA,1.42545683849692,9.99240601841402e-05
+"E745_01992",NA,-1.82424141989147,0.000102757059446536
+"E745_02407",NA,-1.06874197798515,0.000103461783730865
+"E745_01978",NA,-1.24917873184758,0.000107452358436445
+"E745_01163",NA,-1.61563296126848,0.000110484050425404
+"E745_00298",NA,-1.62597425183315,0.000111585171931933
+"E745_00762","hypothetical protein",4.91049213947873,0.000114909394886626
+"E745_02250","hypothetical protein",5.92006547553794,0.000116882369364589
+"E745_00655","hypothetical protein",-5.83588309156485,0.000117034230648796
+"E745_01928",NA,4.88524320286476,0.000117121588019266
+"E745_02030",NA,1.16198600312659,0.000118571906038526
+"E745_02786",NA,2.95298007849653,0.000119148664481353
+"E745_01578","Diacylglycerol kinase",-1.59974834533674,0.000119662145631784
+"E745_02937",NA,-1.46510623829568,0.000120760115379469
+"E745_02267","hypothetical protein",3.38903495693574,0.000122899079947232
+"E745_01556","hypothetical protein",-2.46165565220945,0.000123287184079669
+"E745_00202",NA,1.34510426485247,0.000127492404201324
+"E745_02915",NA,4.9236504106158,0.000127492404201324
+"E745_02252","hypothetical protein",5.9113429667596,0.000129666498476895
+"E745_00486",NA,-1.87756374776588,0.000135131177609378
+"E745_01132",NA,1.4974047901695,0.000136238590620229
+"E745_00946",NA,1.24540180047967,0.000139887924113782
+"E745_02195","Putative penicillin-binding protein PbpX",-2.19147406507671,0.000143549732125302
+"E745_02358","tRNA (cytidine(34)-2-O)-methyltransferase
+E745_02359	CDS	867	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+E745_02360	CDS	642	cutC		COG3142	Copper homeostasis protein CutC
+E745_02361	CDS	1362	mgtE		COG2239	Magnesium transporter MgtE
+E745_02362	CDS	900				hypothetical protein
+E745_02363	CDS	798	ppnKA	2.7.1.23	COG0061	NAD kinase 1
+E745_02364	CDS	705	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+E745_02365	CDS	576	yjbK	3.6.1.-	COG4116	Putative triphosphatase YjbK
+E745_02366	CDS	678				hypothetical protein
+E745_02367	CDS	1296				ISL3 family transposase IS1251
+E745_02368	CDS	1809	pepF1_1	3.4.24.-		Oligoendopeptidase F, plasmid
+E745_02369	CDS	999				hypothetical protein
+E745_02370	CDS	654	mecA		COG4862	Adapter protein MecA 1
+E745_02371	CDS	399	spxA_5		COG1393	Regulatory protein Spx
+E745_02372	CDS	708	yfnB_2	3.-.-.-	COG1011	Putative HAD-hydrolase YfnB
+E745_02373	CDS	3195	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+E745_02374	CDS	3129				hypothetical protein
+E745_02375	CDS	1122	sbcD			Nuclease SbcCD subunit D
+E745_02376	CDS	624	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+E745_02377	CDS	735	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+E745_02378	CDS	285				hypothetical protein
+E745_02379	CDS	1884	oatA	2.3.1.-		O-acetyltransferase OatA
+E745_02380	CDS	876				hypothetical protein
+E745_02381	CDS	1770	aspS	6.1.1.12		Aspartate--tRNA ligase
+E745_02382	CDS	1293	hisS	6.1.1.21		Histidine--tRNA ligase
+E745_02383	CDS	948	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+E745_02384	CDS	1260	cypC	1.11.2.4		Fatty-acid peroxygenase
+E745_02385	CDS	447	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+E745_02386	CDS	2214	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+E745_02387	CDS	765	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+E745_02388	CDS	948	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+E745_02389	CDS	489				hypothetical protein
+E745_02390	CDS	672		3.2.2.-		Putative 3-methyladenine DNA glycosylase
+E745_02391	CDS	1287			COG2256	putative AAA domain-containing protein
+E745_02392	CDS	285				hypothetical protein
+E745_02393	CDS	480				Putative universal stress protein
+E745_02394	CDS	129				hypothetical protein
+E745_02395	CDS	1584	ybiT_3		COG0488	putative ABC transporter ATP-binding protein YbiT
+E745_02396	CDS	1185	ackA	2.7.2.1	COG0282	Acetate kinase
+E745_02397	CDS	1008				hypothetical protein
+E745_02398	CDS	360				hypothetical protein
+E745_02399	CDS	426				hypothetical protein
+E745_02400	CDS	303				hypothetical protein
+E745_02401	CDS	495				hypothetical protein
+E745_02402	CDS	279				hypothetical protein
+E745_02403	CDS	1050				hypothetical protein
+E745_02404	CDS	930	comGA		COG2804	ComG operon protein 1
+E745_02405	CDS	1755	adeC	3.5.4.2		Adenine deaminase
+E745_02406	CDS	663	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+E745_02407	CDS	783	thiK	2.7.1.89		Thiamine kinase
+E745_02408	CDS	1212				hypothetical protein
+E745_02409	CDS	738	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+E745_02410	CDS	435	hit		COG0537	Protein hit
+E745_02411	CDS	345				hypothetical protein
+E745_02412	CDS	1011	prsA_3	5.2.1.8		Foldase protein PrsA
+E745_02413	CDS	945	yhaM	3.1.-.-	COG3481	3-5 exoribonuclease YhaM
+E745_02414	CDS	2721				hypothetical protein
+E745_02415	CDS	1221				hypothetical protein
+E745_02416	CDS	837	ywpJ_2	3.1.3.-	COG0561	Phosphatase YwpJ
+E745_02417	rRNA	111				5S ribosomal RNA
+E745_02418	rRNA	2911				23S ribosomal RNA
+E745_02419	rRNA	1558				16S ribosomal RNA
+E745_02420	CDS	1311				hypothetical protein
+E745_02421	CDS	1419	yjmB		COG2211	putative symporter YjmB
+E745_02422	CDS	1569	xynB	3.2.1.37		Beta-xylosidase
+E745_02423	CDS	411				hypothetical protein
+E745_02424	CDS	924	pemA	3.1.1.11	COG4677	Pectinesterase A
+E745_02425	CDS	900				hypothetical protein
+E745_02426	CDS	1338				hypothetical protein
+E745_02427	CDS	1104	yteR	3.2.1.172	COG4225	Unsaturated rhamnogalacturonyl hydrolase YteR
+E745_02428	CDS	1509	lipO		COG1653	Lipoprotein LipO
+E745_02429	CDS	693				hypothetical protein
+E745_02430	CDS	975	yteP_1		COG4209	putative multiple-sugar transport system permease YteP
+E745_02431	CDS	873	araQ_5		COG0395	L-arabinose transport system permease protein AraQ
+E745_02432	CDS	2199	yesS		COG2207	HTH-type transcriptional regulator YesS
+E745_02433	CDS	993	exuR_2		COG1609	putative HTH-type transcriptional repressor ExuR
+E745_02434	CDS	1422	uxaB	1.1.1.58	COG0246	Altronate oxidoreductase
+E745_02435	CDS	1500	uxaA	4.2.1.7	COG2721	Altronate dehydratase
+E745_02436	CDS	1395	uxaC	5.3.1.12	COG1904	Uronate isomerase
+E745_02437	CDS	684	rhgT	3.1.1.-	COG2755	Rhamnogalacturonan acetylesterase RhgT
+E745_02438	CDS	837				hypothetical protein
+E745_02439	CDS	1755		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+E745_02440	CDS	342				hypothetical protein
+E745_02441	CDS	2172	pbpF		COG0744	Penicillin-binding protein 1F
+E745_02442	CDS	858	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+E745_02443	CDS	858	gmuE_4	2.7.1.4	COG1940	Putative fructokinase
+E745_02444	CDS	2703	mngB	3.2.1.-	COG0383	Mannosylglycerate hydrolase
+E745_02445	CDS	1290				hypothetical protein
+E745_02446	CDS	1047	araR_2		COG1609	Arabinose metabolism transcriptional repressor
+E745_02447	CDS	2154				hypothetical protein
+E745_02448	CDS	1446	rhaR_5			HTH-type transcriptional activator RhaR
+E745_02449	CDS	1725				hypothetical protein
+E745_02450	CDS	615				hypothetical protein
+E745_02451	CDS	1458				hypothetical protein
+E745_02452	CDS	921	araQ_6		COG0395	L-arabinose transport system permease protein AraQ
+E745_02453	CDS	948	yteP_2		COG4209	putative multiple-sugar transport system permease YteP
+E745_02454	CDS	720	rluB_2	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+E745_02455	CDS	1647	murJ_2		COG2244	Lipid II flippase MurJ
+E745_02456	CDS	591				hypothetical protein
+E745_02457	CDS	1506	murE	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+E745_02458	CDS	1353	licC_2		COG1455	Lichenan permease IIC component
+E745_02459	CDS	519				hypothetical protein
+E745_02460	CDS	327	licA_2		COG1447	Lichenan-specific phosphotransferase enzyme IIA component
+E745_02461	CDS	1980	licR_2		COG1762	putative licABCH operon regulator
+E745_02462	CDS	315				hypothetical protein
+E745_02463	CDS	294				hypothetical protein
+E745_02464	CDS	1071				hypothetical protein
+E745_02465	CDS	1020				hypothetical protein
+E745_02466	CDS	2793				hypothetical protein
+E745_02467	CDS	225				hypothetical protein
+E745_02468	CDS	762				hypothetical protein
+E745_02469	CDS	1722			COG1132	putative ABC transporter ATP-binding protein
+E745_02470	CDS	1785			COG1132	putative ABC transporter ATP-binding protein
+E745_02471	CDS	1554				hypothetical protein
+E745_02472	CDS	2415	leuS	6.1.1.4		Leucine--tRNA ligase
+E745_02473	CDS	2019		3.2.1.17		Muramidase-2
+E745_02474	CDS	657				hypothetical protein
+E745_02475	CDS	957				hypothetical protein
+E745_02476	CDS	567				hypothetical protein
+E745_02477	CDS	1770			COG1132	putative ABC transporter ATP-binding protein
+E745_02478	CDS	1713			COG1132	putative ABC transporter ATP-binding protein
+E745_02479	CDS	669				hypothetical protein
+E745_02480	CDS	789				hypothetical protein
+E745_02481	CDS	1476	bmr3			Multidrug resistance protein 3
+E745_02482	CDS	1296				ISL3 family transposase ISEfa5
+E745_02483	CDS	1194	metK	2.5.1.6		S-adenosylmethionine synthase
+E745_02484	tRNA	74				tRNA-Glu(ttc)
+E745_02485	tRNA	76				tRNA-Ile(gat)
+E745_02486	tRNA	71				tRNA-Gly(tcc)
+E745_02487	tRNA	75				tRNA-Phe(gaa)
+E745_02488	tRNA	75				tRNA-Asp(gtc)
+E745_02489	tRNA	76				tRNA-Met(cat)
+E745_02490	tRNA	90				tRNA-Ser(tga)
+E745_02491	tRNA	74				tRNA-Glu(ttc)
+E745_02492	tRNA	90				tRNA-Ser(gct)
+E745_02493	tRNA	76				tRNA-Ile(gat)
+E745_02494	tRNA	71				tRNA-Gly(tcc)
+E745_02495	tRNA	76				tRNA-Asp(gtc)
+E745_02496	tRNA	76				tRNA-Met(cat)
+E745_02497	tRNA	90				tRNA-Ser(tga)
+E745_02498	tRNA	76				tRNA-Met(cat)
+E745_02499	tRNA	76				tRNA-Met(cat)
+E745_02500	tRNA	73				tRNA-Ala(tgc)
+E745_02501	tRNA	74				tRNA-Pro(tgg)
+E745_02502	tRNA	76				tRNA-Arg(acg)
+E745_02503	tRNA	86				tRNA-Leu(taa)
+E745_02504	tRNA	72				tRNA-Gly(gcc)
+E745_02505	tRNA	76				tRNA-Thr(tgt)
+E745_02506	tRNA	84				tRNA-Leu(tag)
+E745_02507	tRNA	75				tRNA-Lys(ttt)
+E745_02508	tRNA	75				tRNA-Val(tac)
+E745_02509	rRNA	111				5S ribosomal RNA
+E745_02510	rRNA	2911				23S ribosomal RNA
+E745_02511	tRNA	73				tRNA-Ala(tgc)
+E745_02512	rRNA	1557				16S ribosomal RNA
+E745_02513	CDS	1296				ISL3 family transposase ISEfa11
+E745_02514	CDS	1497	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+E745_02515	CDS	1005	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+E745_02516	CDS	888	hslO		COG1281	33 kDa chaperonin
+E745_02517	CDS	2112	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+E745_02518	CDS	546	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+E745_02519	CDS	1455	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+E745_02520	CDS	471	pnp_2	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+E745_02521	CDS	426				hypothetical protein
+E745_02522	CDS	270				hypothetical protein
+E745_02523	CDS	1596	murJ_3		COG2244	Lipid II flippase MurJ
+E745_02524	CDS	3522	mfd	3.6.4.-		Transcription-repair-coupling factor
+E745_02525	CDS	561	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+E745_02526	CDS	975	ldh_2	1.1.1.27	COG0039	L-lactate dehydrogenase
+E745_02527	CDS	1401				hypothetical protein
+E745_02528	CDS	723			COG0217	putative transcriptional regulatory protein
+E745_02529	CDS	507				hypothetical protein
+E745_02530	CDS	1800	pepF1_2	3.4.24.-		Oligoendopeptidase F, plasmid
+E745_02531	CDS	1575				hypothetical protein
+E745_02532	CDS	510				hypothetical protein
+E745_02533	CDS	855	mreC		COG1792	Cell shape-determining protein MreC
+E745_02534	CDS	639	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+E745_02535	CDS	651	rpe_1	5.1.3.1		Ribulose-phosphate 3-epimerase
+E745_02536	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+E745_02537	CDS	2070	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+E745_02538	CDS	741	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+E745_02539	CDS	1359	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+E745_02540	CDS	939	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+E745_02541	CDS	492	def_2	3.5.1.88		Peptide deformylase
+E745_02542	CDS	2409	priA	3.6.4.-		primosomal protein N",-1.75339740572933,0.000160845089995012
+"E745_00389","hypothetical protein",-1.89725580559033,0.00016426455799209
+"E745_00487",NA,1.35679580766433,0.000169093295547312
+"E745_01529","Acetyl esterase",-1.82404976808358,0.000172084341545806
+"E745_01761","Uracil permease",1.56640018249862,0.000176266520862789
+"E745_01760","Aspartate carbamoyltransferase",1.36336718861882,0.000182325358851963
+"E745_02271","hypothetical protein",4.82529349172701,0.000191243953349541
+"E745_01535","3-dehydroquinate synthase",-1.27349545993311,0.000192777322417024
+"E745_01755","Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit",1.94955735159449,0.000201918443214151
+"E745_01509","hypothetical protein",1.19291132344191,0.000208478916333778
+"E745_00944",NA,-1.29464041830714,0.000220431163816232
+"E745_00157",NA,1.07465965835864,0.00022775906097473
+"E745_01698","hypothetical protein",-3.02547723394497,0.00022775906097473
+"E745_02652",NA,-2.1092616121248,0.000229090516125501
+"E745_01679","Maltodextrin-binding protein MdxE",2.69230603930076,0.000235242679162591
+"E745_01752",NA,1.30450876880883,0.000238846810201034
+"E745_00184",NA,1.45464403117127,0.000244559326662285
+"E745_02245","hypothetical protein",5.39342405973025,0.000254921776595805
+"E745_00768","hypothetical protein",5.75947622107093,0.00025597058402731
+"E745_01687","putative ABC transporter extracellular-binding protein YckB",1.23614663503297,0.000257273244510119
+"E745_01947",NA,1.44850923279936,0.00025992304553626
+"E745_02281","hypothetical protein",5.75441254685874,0.000275408239994855
+"E745_02927",NA,1.95520862822313,0.000278749999803301
+"E745_02254","hypothetical protein",5.75599233977612,0.00029117613218875
+"E745_00308",NA,2.10614787108008,0.000302712954198827
+"E745_00321",NA,1.42037615774722,0.000304053040252546
+"E745_01501","hypothetical protein",1.022457916523,0.000307047443663758
+"E745_02181","hypothetical protein",-1.71661551135971,0.000317546456845699
+"E745_01700","hypothetical protein",-1.7345440899782,0.000336607763657862
+"E745_00738","hypothetical protein",4.67198031301119,0.000349111190891752
+"E745_02550","Thiamine transporter ThiT",1.35238327253332,0.000417735866568384
+"E745_01279","hypothetical protein",-2.26578147451646,0.000418405775001086
+"E745_02251","hypothetical protein",5.69659517578259,0.000435218862726975
+"E745_02269","hypothetical protein",5.63885676070452,0.00043707361076563
+"E745_02583",NA,1.56920250053789,0.000450077479522948
+"E745_01168",NA,-1.13541176515343,0.000463817364704564
+"E745_00969",NA,1.60828075714352,0.000468810612007931
+"E745_00385","Accessory gene regulator protein A",-1.70189130805292,0.000475736336331117
+"E745_00741","hypothetical protein",1.861767836739,0.000475736336331117
+"E745_01604","hypothetical protein",1.76817569736606,0.000490727612410607
+"E745_00767","hypothetical protein",5.63847630191219,0.000495726743396226
+"E745_01377","hypothetical protein",1.51154256732226,0.000507431716856923
+"E745_01738","hypothetical protein",-2.49943243098441,0.000518599050722645
+"E745_00275",NA,1.02224380498413,0.000539208402864383
+"E745_00297",NA,-2.92404563154675,0.000561250647219131
+"E745_02244","hypothetical protein",2.98927703968087,0.000566435772345979
+"E745_00312",NA,-1.20686016970226,0.000596656911240977
+"E745_01716","putative ABC transporter permease",-5.49011951435011,0.000609764693858646
+"E745_02852",NA,1.47816987190884,0.000612728860593894
+"E745_01098",NA,1.39506359306844,0.000639422376208347
+"E745_01960",NA,3.04089935768048,0.000647656628478108
+"E745_01267","hypothetical protein",1.07839678510912,0.000654417690897608
+"E745_02144","RNA-binding protein",-2.90572060392718,0.000664282617216943
+"E745_03019",NA,1.77082199715078,0.000707660456709961
+"E745_00664","hypothetical protein",-1.31038247333405,0.000711270134052577
+"E745_02275","hypothetical protein",4.52365644491189,0.000717259920976921
+"E745_02671",NA,1.92842035538501,0.000725740070013187
+"E745_00338",NA,-3.80684586264068,0.000729422032947609
+"E745_00191",NA,2.44704489682438,0.000730383041688922
+"E745_00088","tRNA pseudouridine synthase A",-1.39511406071093,0.000734889349912682
+"E745_02606",NA,-3.2087375156913,0.000742721909686715
+"E745_01516","hypothetical protein",5.61613674904186,0.000750959679058324
+"E745_02573","Mini-ribonuclease 3",-1.21318585344089,0.000761121025187311
+"E745_00763","hypothetical protein",5.10309181456892,0.000775206184881525
+"E745_00362","Adaptive-response sensory-kinase SasA",1.09266288824463,0.000777087444767295
+"E745_01173","GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase",-1.50422876506001,0.000780485034422763
+"E745_02415",NA,1.26019028945407,0.000812195358931312
+"E745_01310","hypothetical protein",-1.84626909229049,0.000829027848894173
+"E745_01444","Carbamate kinase 1",-1.9877730482898,0.000842298831402273
+"E745_00148",NA,-1.13431265378053,0.000869952352828933
+"E745_02739",NA,-1.25381727776083,0.000882467315985833
+"E745_03084",NA,1.05904978160112,0.000895413800984115
+"E745_00478",NA,2.05139991990829,0.000905927601755324
+"E745_00166",NA,-1.25881059160578,0.000981878832021595
+"E745_01754","Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit",1.46653773946877,0.000989722296563008
+"E745_00884","Methylglyoxal synthase",2.67531643626345,0.00104593665596952
+"E745_00536",NA,1.26919132773842,0.00106399960694503
+"E745_00925",NA,1.4182755630568,0.00107181440559306
+"E745_00819","putative ABC transporter ATP-binding protein",-1.6278506460575,0.00108830107535974
+"E745_00146",NA,-1.18127907824865,0.00115004561358038
+"E745_00945",NA,1.03151360563112,0.00116981214291275
+"E745_01141",NA,1.75020322341557,0.00120250506009183
+"E745_01227","hypothetical protein",2.5271509483601,0.00122680952396498
+"E745_01839","hypothetical protein",1.52215946846577,0.00122724162483478
+"E745_02343","hypothetical protein",1.31589115333191,0.0012815428274331
+"E745_00733","hypothetical protein",3.47384899669251,0.00129895468703542
+"E745_00735","hypothetical protein",5.42355544525036,0.00130541307535184
+"E745_01926",NA,1.44933248038767,0.00131259399712478
+"E745_00451","putative arabinose-binding protein",1.78603888731698,0.00132301794243447
+"E745_01787","Holliday junction resolvase RecU",-1.37128695364362,0.00140178345428763
+"E745_00327",NA,-2.67521900695087,0.00141948746198166
+"E745_00537","hypothetical protein",2.22727861616039,0.00141955671571418
+"E745_01235","Phosphate-binding protein PstS 1",1.91542458260333,0.00143325839968483
+"E745_01929",NA,3.19117346865858,0.00150113851729755
+"E745_01961",NA,-1.27282410425529,0.00155953535383293
+"E745_02813",NA,1.93075972225509,0.0015762549470278
+"E745_00759","hypothetical protein",3.08120983387813,0.00159150173597969
+"E745_02946",NA,1.87889976132086,0.00159833355393145
+"E745_00760","hypothetical protein",3.4394083077051,0.00160591169445191
+"E745_00761","ATP-dependent Clp protease proteolytic subunit",4.28534383282209,0.00165412944235139
+"E745_01240","Alkaline phosphatase synthesis transcriptional regulatory protein PhoP",1.00363636139937,0.00170030988204801
+"E745_01968",NA,-1.07068374488339,0.00172468992407745
+"E745_00720","hypothetical protein",5.37236270647583,0.00174996112603618
+"E745_00710","Diphtheria toxin repressor",-1.22871846723956,0.00189735232507763
+"E745_02392",NA,1.81907594566354,0.00192120952376666
+"E745_00602","hypothetical protein",-2.80722562544818,0.00193892966653786
+"E745_00635","putative MFS-type transporter YfcJ",-2.76407237692755,0.00194228113156009
+"E745_01976",NA,-2.44818800695933,0.00194431708236437
+"E745_02702","hypothetical protein",-1.34315855999922,0.00207484301504716
+"E745_01159",NA,-1.41698745190416,0.00212536800116602
+"E745_02755",NA,3.35274630504242,0.00214991412450794
+"E745_01379","hypothetical protein",1.68318981775878,0.00219313619144425
+"E745_00593","hypothetical protein",1.07829263579532,0.00219745192441733
+"E745_02950",NA,4.24168882641217,0.0022260841532066
+"E745_01417","IS1182 family transposase ISEfa7",2.67216545453882,0.00223596070992457
+"E745_00368","hypothetical protein",-1.07178227348189,0.0022840189868189
+"E745_01821","hypothetical protein",-1.17340070738918,0.00229409785458954
+"E745_00024","hypothetical protein",-1.34724823719303,0.00231866597376005
+"E745_01753",NA,1.09737391496295,0.00233356940999239
+"E745_01094",NA,-1.85003045813658,0.00235627811169156
+"E745_00891","putative phosphotransferase enzyme IIB component",5.27450669780864,0.00249075821284565
+"E745_01659","hypothetical protein",-3.20112696694749,0.0026063651058126
+"E745_02787",NA,-1.9137478535441,0.00265906763397951
+"E745_01438","hypothetical protein",-2.01837158855464,0.00276346761624845
+"E745_01109",NA,1.01257817361577,0.00291013746214951
+"E745_02306","hypothetical protein",1.22371784126128,0.00292304266760489
+"E745_01147",NA,-1.82619453584509,0.00292680120573794
+"E745_02913",NA,2.28606341257656,0.00293470178207811
+"E745_02278","hypothetical protein",2.59462553057722,0.00303713166961186
+"E745_01427","Rhomboid protease GluP",-1.78580525116564,0.00307737585370343
+"E745_02586",NA,1.06705542780287,0.00322223011898128
+"E745_01110",NA,1.09717383970847,0.00324343142438973
+"E745_01756","Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit",1.4659740857179,0.00325669839248635
+"E745_00924",NA,1.31608174811453,0.00340922547626036
+"E745_02672",NA,1.26136961358374,0.00361938995637928
+"E745_02264","hypothetical protein",4.6682387753704,0.00369013704670229
+"E745_01171","hypothetical protein",-1.37377850306707,0.00385094266671142
+"E745_01583","hypothetical protein",1.27217777762456,0.00397592530880493
+"E745_00386","hypothetical protein",-1.39075448192318,0.00404219952050562
+"E745_02982",NA,2.42408040886662,0.00455402907059041
+"E745_02005",NA,1.76999355825495,0.0046841008476236
+"E745_01166",NA,-1.39596166248662,0.00468567574767574
+"E745_00339",NA,-4.91691742409567,0.0047278611456303
+"E745_02589",NA,-2.36827335777296,0.00480347805362423
+"E745_00301",NA,-1.09111702582334,0.0048682691771636
+"E745_00604","Spermidine/putrescine transport system permease protein PotB",-1.54197680564766,0.00488438562684278
+"E745_02590",NA,-2.46773012255005,0.00498011588798219
+"E745_00914",NA,-4.90022413283902,0.00509695394752842
+"E745_00749","hypothetical protein",2.98922521382527,0.00509895182658639
+"E745_00180",NA,-2.10364585171039,0.00514166586542194
+"E745_02992",NA,1.64516647730032,0.00515299398978115
+"E745_00239",NA,1.60881684428853,0.00543396087582995
+"E745_02041",NA,-1.06908365799065,0.00559188609757598
+"E745_00918",NA,-1.4268468845567,0.00584914047045085
+"E745_01381","hypothetical protein",1.8698020024397,0.00589538065386297
+"E745_00142","2,3-cyclic-nucleotide 2-phosphodiesterase
+E745_00143	CDS	375				hypothetical protein
+E745_00144	CDS	2646	mutS_1		COG0249	DNA mismatch repair protein MutS
+E745_00145	CDS	2109	mutL		COG0323	DNA mismatch repair protein MutL
+E745_00146	CDS	561	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+E745_00147	CDS	1989				hypothetical protein
+E745_00148	CDS	714	treR		COG2188	HTH-type transcriptional regulator TreR
+E745_00149	CDS	447	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+E745_00150	CDS	603	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+E745_00151	CDS	1002	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+E745_00152	CDS	579				hypothetical protein
+E745_00153	CDS	483	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+E745_00154	CDS	375				hypothetical protein
+E745_00155	CDS	954			COG2826	IS30 family transposase IS1252
+E745_00156	CDS	1353	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+E745_00157	CDS	591				Potassium channel
+E745_00158	CDS	1350	cycA		COG1113	D-serine/D-alanine/glycine transporter
+E745_00159	CDS	741	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+E745_00160	CDS	1593	mltF_1	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+E745_00161	CDS	192				hypothetical protein
+E745_00162	CDS	297				hypothetical protein
+E745_00163	CDS	726	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+E745_00164	CDS	843	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+E745_00165	CDS	522	nadR		COG1827	Transcription repressor NadR
+E745_00166	CDS	564	def_1	3.5.1.88	COG0242	Peptide deformylase
+E745_00167	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+E745_00168	CDS	2127	pnp_1	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+E745_00169	CDS	267				hypothetical protein
+E745_00170	CDS	1992	kup			Low affinity potassium transport system protein kup
+E745_00171	CDS	1302				hypothetical protein
+E745_00172	CDS	1371	dinF		COG0534	DNA damage-inducible protein F
+E745_00173	CDS	324				hypothetical protein
+E745_00174	CDS	609	ctc		COG1825	General stress protein CTC
+E745_00175	CDS	717	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+E745_00176	CDS	696	yfnB_1	3.-.-.-	COG1011	Putative HAD-hydrolase YfnB
+E745_00177	CDS	630	udk	2.7.1.48	COG0572	Uridine kinase
+E745_00178	CDS	537				hypothetical protein
+E745_00179	CDS	807				IS3 family transposase ISEnfa3
+E745_00180	CDS	603				hypothetical protein
+E745_00181	CDS	489				hypothetical protein
+E745_00182	CDS	1374				hypothetical protein
+E745_00183	CDS	468				hypothetical protein
+E745_00184	CDS	1746	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+E745_00185	CDS	1077	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+E745_00186	CDS	1413	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+E745_00187	CDS	1512	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+E745_00188	CDS	351	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+E745_00189	CDS	1122	alr	5.1.1.1	COG0787	Alanine racemase
+E745_00190	CDS	363	ndoA	3.1.27.-	COG2337	Endoribonuclease EndoA
+E745_00191	CDS	270	rpsN2_1		COG0199	Alternate 30S ribosomal protein S14
+E745_00192	CDS	948				Zinc-type alcohol dehydrogenase-like protein
+E745_00193	CDS	2706				hypothetical protein
+E745_00194	CDS	1824	kimA		COG0531	Potassium transporter KimA
+E745_00195	CDS	264				hypothetical protein
+E745_00196	CDS	267				hypothetical protein
+E745_00197	CDS	489				hypothetical protein
+E745_00198	CDS	99				hypothetical protein
+E745_00199	CDS	672	opuCD		COG1174	Glycine betaine/carnitine/choline transport system permease protein OpuCD
+E745_00200	CDS	918	opuCC		COG1732	Glycine betaine/carnitine/choline-binding protein OpuCC
+E745_00201	CDS	642	opuCB		COG1174	Carnitine transport permease protein OpuCB
+E745_00202	CDS	1176	opuCA_1	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+E745_00203	CDS	1032	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+E745_00204	CDS	309	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+E745_00205	CDS	2292		7.2.2.10		Calcium-transporting ATPase 1
+E745_00206	CDS	699				hypothetical protein
+E745_00207	CDS	1146	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+E745_00208	CDS	381				hypothetical protein
+E745_00209	CDS	1320				IS1380 family transposase IS1678
+E745_00210	CDS	2598	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+E745_00211	CDS	954			COG2826	IS30 family transposase IS1252
+E745_00212	CDS	189				hypothetical protein
+E745_00213	CDS	1461	rhaB	2.7.1.5		Rhamnulokinase
+E745_00214	CDS	1257	rhaA	5.3.1.14	COG4806	L-rhamnose isomerase
+E745_00215	CDS	846	rhaD	4.1.2.19	COG0235	Rhamnulose-1-phosphate aldolase
+E745_00216	CDS	312	rhaM	5.1.3.32	COG3254	L-rhamnose mutarotase
+E745_00217	CDS	1152	fucO	1.1.1.77	COG1454	Lactaldehyde reductase
+E745_00218	CDS	759	iclR		COG1414	Transcriptional repressor IclR
+E745_00219	CDS	645	kdgA		COG0800	KHG/KDPG aldolase
+E745_00220	CDS	1008	kdgK	2.7.1.45		2-dehydro-3-deoxygluconokinase
+E745_00221	CDS	843	kduI1	5.3.1.17	COG3717	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase 1
+E745_00222	CDS	135				hypothetical protein
+E745_00223	CDS	675	kduD	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+E745_00224	CDS	1065	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+E745_00225	CDS	1086		2.7.4.2		Phosphomevalonate kinase
+E745_00226	CDS	978				hypothetical protein
+E745_00227	CDS	945	galK_1	2.7.1.6		Galactokinase
+E745_00228	CDS	654		2.7.1.113	COG1428	Deoxyguanosine kinase
+E745_00229	CDS	906				hypothetical protein
+E745_00230	CDS	633				hypothetical protein
+E745_00231	CDS	525	infC			Translation initiation factor IF-3
+E745_00232	CDS	201	rpmI		COG0291	50S ribosomal protein L35
+E745_00233	CDS	360	rplT		COG0292	50S ribosomal protein L20
+E745_00234	CDS	1338				hypothetical protein
+E745_00235	CDS	2130				hypothetical protein
+E745_00236	CDS	690				hypothetical protein
+E745_00237	CDS	687	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+E745_00238	CDS	168				hypothetical protein
+E745_00239	CDS	441		3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+E745_00240	CDS	846	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+E745_00241	CDS	1419	pepV	3.4.13.-		Beta-Ala-Xaa dipeptidase
+E745_00242	CDS	291				hypothetical protein
+E745_00243	CDS	318		1.2.1.97		3-sulfolactaldehyde dehydrogenase
+E745_00244	CDS	957				hypothetical protein
+E745_00245	CDS	354				hypothetical protein
+E745_00246	CDS	1080	pepA	3.4.11.7	COG1363	Glutamyl aminopeptidase
+E745_00247	CDS	321	ytpP			Thioredoxin-like protein YtpP
+E745_00248	CDS	468				Putative universal stress protein
+E745_00249	CDS	606				hypothetical protein
+E745_00250	CDS	1284	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+E745_00251	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+E745_00252	CDS	837				IS3 family transposase IS1485
+E745_00253	CDS	291				IS3 family transposase IS1485
+E745_00254	CDS	1131				hypothetical protein
+E745_00255	CDS	909				IS982 family transposase ISEfm1
+E745_00256	CDS	855	rhaR_1			HTH-type transcriptional activator RhaR
+E745_00257	CDS	2250	agaA_1	3.2.1.22		Alpha-galactosidase AgaA
+E745_00258	CDS	1173				hypothetical protein
+E745_00259	CDS	1320				IS1380 family transposase IS1678
+E745_00260	CDS	360				IS256 family transposase ISEf1
+E745_00261	CDS	840				IS256 family transposase ISEf1
+E745_00262	CDS	309				hypothetical protein
+E745_00263	CDS	300				hypothetical protein
+E745_00264	CDS	552				hypothetical protein
+E745_00265	CDS	1320				IS1380 family transposase IS1678
+E745_00266	CDS	294				hypothetical protein
+E745_00267	CDS	297				hypothetical protein
+E745_00268	CDS	891				hypothetical protein
+E745_00269	CDS	1050				hypothetical protein
+E745_00270	CDS	1647				hypothetical protein
+E745_00271	CDS	240				hypothetical protein
+E745_00272	CDS	1374				hypothetical protein
+E745_00273	CDS	1638				hypothetical protein
+E745_00274	CDS	1089				hypothetical protein
+E745_00275	CDS	954			COG2826	IS30 family transposase IS1252
+E745_00276	CDS	258				hypothetical protein
+E745_00277	CDS	405				hypothetical protein
+E745_00278	CDS	2658	norR_1			Anaerobic nitric oxide reductase transcription regulator NorR
+E745_00279	CDS	477	sorB_1	2.7.1.206	COG3444	PTS system sorbose-specific EIIB component
+E745_00280	CDS	789	agaC		COG3715	N-acetylgalactosamine permease IIC component 1
+E745_00281	CDS	798	manZ_1		COG3716	PTS system mannose-specific EIID component
+E745_00282	CDS	396				hypothetical protein
+E745_00283	CDS	1122				hypothetical protein
+E745_00284	CDS	870	gmuE_1	2.7.1.4	COG1940	Putative fructokinase
+E745_00285	CDS	162				hypothetical protein
+E745_00286	CDS	954			COG2826	IS30 family transposase IS1252
+E745_00287	CDS	513				IS630 family transposase ISBs2
+E745_00288	CDS	393				IS630 family transposase IS642
+E745_00289	CDS	1002				hypothetical protein
+E745_00290	CDS	1242	sstT		COG3633	Serine/threonine transporter SstT
+E745_00291	CDS	636				hypothetical protein
+E745_00292	CDS	1635	manR_1		COG1762	Transcriptional regulator ManR
+E745_00293	CDS	432				hypothetical protein
+E745_00294	CDS	249				hypothetical protein
+E745_00295	CDS	954			COG2826	IS30 family transposase IS1252
+E745_00296	CDS	453				hypothetical protein
+E745_00297	CDS	522	paiA	2.3.1.57	COG0454	Spermidine/spermine N(1)-acetyltransferase
+E745_00298	CDS	711				hypothetical protein
+E745_00299	CDS	369				hypothetical protein
+E745_00300	CDS	225				hypothetical protein
+E745_00301	CDS	1554				hypothetical protein
+E745_00302	CDS	1314	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+E745_00303	CDS	1638	malL_1	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+E745_00304	CDS	495				hypothetical protein
+E745_00305	CDS	1092		1.-.-.-		putative oxidoreductase
+E745_00306	CDS	678	hchA	3.1.2.-	COG0693	Protein/nucleic acid deglycase 1
+E745_00307	CDS	1296	npr_1	1.11.1.1	COG0446	NADH peroxidase
+E745_00308	CDS	1461				hypothetical protein
+E745_00309	CDS	1497	glpK	2.7.1.30	COG0554	Glycerol kinase
+E745_00310	CDS	1824	glpO	1.1.3.21	COG0578	Alpha-glycerophosphate oxidase
+E745_00311	CDS	717	glpF		COG0580	Glycerol uptake facilitator protein
+E745_00312	CDS	1929	mutS2_1	3.1.-.-		Endonuclease MutS2
+E745_00313	CDS	555	pgsA2	2.7.8.41	COG0558	Putative cardiolipin synthase
+E745_00314	CDS	315				hypothetical protein
+E745_00315	CDS	261				hypothetical protein
+E745_00316	CDS	315	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+E745_00317	CDS	1656	cdr_1	1.8.1.14		Coenzyme A disulfide reductase
+E745_00318	CDS	1851	helD_1	3.6.4.12	COG3973	DNA helicase IV
+E745_00319	CDS	288				hypothetical protein
+E745_00320	CDS	348				hypothetical protein
+E745_00321	CDS	1305	pgaC	2.4.1.-	COG1215	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+E745_00322	CDS	858				hypothetical protein
+E745_00323	CDS	321				hypothetical protein
+E745_00324	CDS	396	dhaM-2	2.7.1.121	COG3412	PEP-dependent dihydroxyacetone kinase 2, phosphoryl donor subunit DhaM
+E745_00325	CDS	1011	dhaK	2.7.1.121	COG2376	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+E745_00326	CDS	606	dhaL	2.7.1.121	COG2376	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+E745_00327	CDS	666				hypothetical protein
+E745_00328	CDS	660	anr			Transcriptional activator protein Anr
+E745_00329	CDS	1611			COG3559	Multidrug efflux system permease protein
+E745_00330	CDS	621		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+E745_00331	CDS	954			COG2826	IS30 family transposase IS1252
+E745_00332	CDS	249	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+E745_00333	CDS	600				hypothetical protein
+E745_00334	CDS	1302				hypothetical protein
+E745_00335	CDS	1257	tyrS1	6.1.1.1	COG0162	Tyrosine--tRNA ligase 1
+E745_00336	CDS	1878				hypothetical protein
+E745_00337	CDS	1422	gadC_1		COG0531	putative glutamate/gamma-aminobutyrate antiporter
+E745_00338	CDS	816	nhaC_1		COG1757	Na(+)/H(+) antiporter NhaC
+E745_00339	CDS	516	nhaC_2		COG1757	Na(+)/H(+) antiporter NhaC
+E745_00340	CDS	1020	ccpA_1		COG1609	Catabolite control protein A
+E745_00341	CDS	1008	mro_1	5.1.3.3	COG2017	Aldose 1-epimerase
+E745_00342	CDS	666	pgmB	5.4.2.6	COG0637	Beta-phosphoglucomutase
+E745_00343	CDS	2295	malP	2.4.1.8		Maltose phosphorylase
+E745_00344	CDS	2166	ptsG_1	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+E745_00345	CDS	834	mapP	3.1.3.90		Maltose 6-phosphate phosphatase",-1.177214535202,0.00601903057931544
+"E745_02389",NA,-1.84715619287371,0.00607022846283681
+"E745_02775",NA,-1.5386237094182,0.00609055310734986
+"E745_02226","hypothetical protein",1.29903732016976,0.00613758425101364
+"E745_01688","L-cystine transport system permease protein YecS",1.43531921026546,0.00621527804080247
+"E745_00444","hypothetical protein",2.45164886688908,0.00642652298053933
+"E745_01840","hypothetical protein",1.21226157581588,0.00643973119082156
+"E745_02248","hypothetical protein",3.98182501139823,0.00654496053535867
+"E745_00434","Riboflavin transporter RibZ",-3.88011503293388,0.00658035986261753
+"E745_02087",NA,-1.08551037165942,0.00670380578644857
+"E745_02471",NA,-1.26241161257297,0.0068659522641765
+"E745_01500","hypothetical protein",4.91902722496533,0.00698625171523128
+"E745_01530","HTH-type transcriptional repressor MelR",1.98472540106916,0.00705237364537887
+"E745_01473","Intracellular iron chaperone frataxin",2.02565398613022,0.00715448031932995
+"E745_02641",NA,-4.79511339396202,0.00717131576726736
+"E745_02991",NA,1.53496387800521,0.00728711894074906
+"E745_00940",NA,1.87307185163181,0.00732326669678695
+"E745_00095","hypothetical protein",-4.77695331650966,0.00748269815191462
+"E745_01165",NA,-1.07404614430306,0.00793931521864908
+"E745_01048",NA,-2.97429311727931,0.00798888856668253
+"E745_02522",NA,-1.35250478125916,0.00798888856668253
+"E745_02924",NA,2.13985327305167,0.00802529143272046
+"E745_00488",NA,-2.81328831826984,0.00821070995729936
+"E745_02372",NA,-1.62268476175919,0.00857126619019266
+"E745_01238","Calcium-transporting ATPase CtpE",-1.34098627313827,0.00858756625348886
+"E745_02388",NA,-1.04842135898055,0.00865766382537766
+"E745_01441","hypothetical protein",-1.86267005297498,0.00873262244303427
+"E745_02258","hypothetical protein",3.82347651542814,0.00925046042469394
+"E745_02605",NA,-2.1233184555989,0.00940423046800727
+"E745_02474",NA,-1.30434785155633,0.00964845715201762
