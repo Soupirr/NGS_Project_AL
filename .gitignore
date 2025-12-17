@@ -33,3 +33,11 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+analyses/**/busco/
+analyses/**/quast/
+analyses/**/fastqc/**/*.zip
+analyses/**/multiqc_data/
+analyses/**/bowtie2/
+busco_downloads/
+*.Rproj
