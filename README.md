@@ -32,11 +32,16 @@ The analysis pipeline includes:
 
 ## Repository structure
 
-├── analyses/ # Analysis outputs and results
-├── scripts/ # Scripts used for each analysis step
-├── data/ # Metadata files (raw data not included)
-├── docs/ # Project instructions and reference article
+
+```
+.
+├── analyses/      # Analysis outputs and results
+├── scripts/       # Scripts used for each analysis step
+├── data/          # Metadata files (raw data not included)
+├── docs/          # Project instructions and reference article
 └── README.md
+```
+
 
 ## Software used
 - Canu
