@@ -61,5 +61,5 @@ The analysis pipeline includes:
 - ResFinder
 
 
-<img src="docs/images/logo_estbb.png" width="600">
+<img src="docs/images/logo_estbb.png" width="200">
 
