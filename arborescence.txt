@@ -1,0 +1,135 @@
+.
+├── README.md
+├── analyse_git
+├── analyses
+│   ├── 01_genome_assembly
+│   │   ├── README.md
+│   │   ├── canu
+│   │   └── spades
+│   ├── 02_assembly_evaluation
+│   │   ├── README.md
+│   │   ├── busco
+│   │   │   ├── logs
+│   │   │   ├── prodigal_output
+│   │   │   ├── run_firmicutes_odb10
+│   │   │   ├── short_summary.specific.firmicutes_odb10.pacbio_busco.json
+│   │   │   └── short_summary.specific.firmicutes_odb10.pacbio_busco.txt
+│   │   └── quast
+│   │       ├── basic_stats
+│   │       ├── icarus.html
+│   │       ├── icarus_viewers
+│   │       ├── quast.log
+│   │       ├── report.html
+│   │       ├── report.pdf
+│   │       ├── report.tex
+│   │       ├── report.tsv
+│   │       ├── report.txt
+│   │       ├── transposed_report.tex
+│   │       ├── transposed_report.tsv
+│   │       └── transposed_report.txt
+│   ├── 03_annotation
+│   │   └── prokka
+│   │       ├── README.md
+│   │       └── pacbio_prokka
+│   ├── 04_rnaseq
+│   │   ├── README.md
+│   │   ├── fastqc
+│   │   │   ├── raw
+│   │   │   └── trimmed
+│   │   ├── multiqc
+│   │   │   ├── raw
+│   │   │   └── trimmed
+│   │   └── trimming
+│   │       ├── ERR1797969.subsampled_1.trimmed.fastq.gz
+│   │       ├── ERR1797969.subsampled_2.trimmed.fastq.gz
+│   │       ├── ERR1797970.subsampled_1.trimmed.fastq.gz
+│   │       ├── ERR1797970.subsampled_2.trimmed.fastq.gz
+│   │       ├── ERR1797971.subsampled_1.trimmed.fastq.gz
+│   │       ├── ERR1797971.subsampled_2.trimmed.fastq.gz
+│   │       ├── ERR1797972.subsampled_1.trimmed.fastq.gz
+│   │       ├── ERR1797972.subsampled_2.trimmed.fastq.gz
+│   │       ├── ERR1797973.subsampled_1.trimmed.fastq.gz
+│   │       ├── ERR1797973.subsampled_2.trimmed.fastq.gz
+│   │       ├── ERR1797974.subsampled_1.trimmed.fastq.gz
+│   │       └── ERR1797974.subsampled_2.trimmed.fastq.gz
+│   ├── 05_mapping
+│   │   ├── README.md
+│   │   └── bowtie2
+│   │       ├── bam
+│   │       ├── index
+│   │       └── sam
+│   ├── 06_read_counting
+│   │   └── featurecounts
+│   │       ├── README.md
+│   │       ├── gene_counts.txt
+│   │       └── gene_counts.txt.summary
+│   ├── 07_deseq2
+│   │   ├── DE_genes_Serum_vs_BHI.csv
+│   │   ├── DE_genes_annotated_Prokka.csv
+│   │   ├── Functional_categories_DE_genes.pdf
+│   │   ├── Functional_categories_DE_genes.png
+│   │   ├── MAplot_RNAseq_BHI_vs_Serum.pdf
+│   │   ├── PCA_RNAseq_BHI_vs_Serum.pdf
+│   │   ├── README.md
+│   │   ├── Volcano_RNAseq_BHI_vs_Serum.pdf
+│   │   └── top_DE_genes_annotated.csv
+│   └── 08_resfinder
+│       ├── README.md
+│       └── resfinder_results.tsv
+├── arborescence.txt
+├── busco_1513.log
+├── busco_1878.log
+├── busco_downloads
+│   ├── file_versions.tsv
+│   └── lineages
+│       └── firmicutes_odb10
+│           ├── ancestral
+│           ├── ancestral_variants
+│           ├── dataset.cfg
+│           ├── hmms
+│           ├── info
+│           ├── lengths_cutoff
+│           ├── links_to_ODB10.txt
+│           ├── refseq_db.faa.gz
+│           ├── refseq_db.faa.gz.md5
+│           └── scores_cutoff
+├── data
+│   ├── meta_data
+│   │   ├── MetaData.csv
+│   │   └── MetaDataDESeq2.tsv
+│   └── raw
+│       ├── genome
+│       │   ├── E745.CP014529.1.CHR.fasta
+│       │   ├── E745.CP014530.1.Pl1.fasta
+│       │   ├── E745.CP014531.1.Pl2.fasta
+│       │   ├── E745.CP014532.1.Pl3.fasta
+│       │   ├── E745.CP014533.1.Pl4.fasta
+│       │   ├── E745.CP014534.1.Pl5.fasta
+│       │   ├── E745.CP014535.1.Pl6.fasta
+│       │   ├── E745.fasta
+│       │   ├── Nanopore.reads
+│       │   ├── PacBio.reads
+│       │   └── illumina.reads
+│       └── transcriptome
+│           └── 0.Raw-data
+├── docs
+│   ├── Consigne_Projet_NGS
+│   │   ├── Project_bioinfo_FISE2-AS.S1.pdf
+│   │   ├── Project_bioinfo_FISE2-AS.S2.pdf
+│   │   ├── Project_bioinfo_FISE2-AS.S3-4.pdf
+│   │   └── Project_bioinfo_FISE2-AS.S5.pdf
+│   └── references
+│       └── Paper.pdf
+├── rnaseq_deseq2.Rproj
+└── scripts
+    ├── 01_genome_assembly.sh
+    ├── 02_genome_evaluation.sh
+    ├── 03_annotation.sh
+    ├── 04_rnaseq_qc.sh
+    ├── 05_trimming.sh
+    ├── 06_mapping.sh
+    ├── 07_counting.sh
+    ├── 08_deseq2.R
+    └── 09_resfinder.md
+
+52 directories, 81 files
