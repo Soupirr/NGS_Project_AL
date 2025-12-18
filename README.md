@@ -1,5 +1,10 @@
 # Enterococcus faecium – Genome assembly and RNA-seq analysis
 
+## Contributors
+
+CAZIN Antoine
+MOLTENI Lauriane
+
 ## Project overview
 This project aims to study the genomic structure and transcriptional response
 of *Enterococcus faecium* under two growth conditions: a rich medium (BHI) and
@@ -54,3 +59,5 @@ The analysis pipeline includes:
 - featureCounts
 - DESeq2
 - ResFinder
+
+![Pipeline overview](docs/images/logo_estbb.png)
