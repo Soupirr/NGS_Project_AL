@@ -60,6 +60,6 @@ The analysis pipeline includes:
 - DESeq2
 - ResFinder
 
-![Pipeline overview](docs/images/logo_estbb.png)
-<img src="docs/images/pipeline_overview.png" width="600">
+
+<img src="docs/images/logo_estbb.png" width="600">
 
