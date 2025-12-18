@@ -3,6 +3,7 @@
 ## Contributors
 
 CAZIN Antoine
+
 MOLTENI Lauriane
 
 ## Project overview
