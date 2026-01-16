@@ -63,12 +63,16 @@ The analysis pipeline includes:
 
 Source :
 RNA-seq and Tn-seq reveal fitness determinants of vancomycin-resistant Enterococcus faecium during growth in human serum.
+
 Xinglin Zhang et al. / 2017 Nov 21
+
 DOI: 10.1186/s12864-017-4299-9
+
 https://pubmed.ncbi.nlm.nih.gov/29162049/
 
 
 <img src="docs/images/logo_estbb.png" width="200">
+
 
 
 
