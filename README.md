@@ -2,9 +2,8 @@
 
 ## Contributors
 
-CAZIN Antoine
-
-MOLTENI Lauriane
+### CAZIN Antoine
+### MOLTENI Lauriane
 
 ## Project overview
 This project aims to study the genomic structure and transcriptional response
@@ -73,6 +72,7 @@ https://pubmed.ncbi.nlm.nih.gov/29162049/
 
 
 <img src="docs/images/logo_estbb.png" width="200">
+
 
 
 
